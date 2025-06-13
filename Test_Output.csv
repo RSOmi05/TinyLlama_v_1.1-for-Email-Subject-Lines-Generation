@@ -1,0 +1,1443 @@
+email_body,predicted_subject_line,true_subject_line
+"### Instruction:
+Create 7 subject lines for an email campaign in a Bold tone proclaiming our special Ugadi festival collection.
+
+### Response:
+1: Turn Heads This Ugadi with Our Special Bold Collection
+2: Exhibit Your Bold Ugadi Spirit with Our Collection!
+3: Boldly Embrace the Ugadi Spirit with Our Special Collection!
+4: Unleash Ugadi's Bold Spirit with Our Exuberant Collection
+5: Let the Boldness of Ugadi Shine with Our Collection
+6: Bold and Beautiful: Special Ugadi Collection
+7: Celebrate Ugadi Boldly With Our Special Collection
+","###agram ### ###1 a20- for the email.. Microsoft wordCC format.laiming your company offer.anda offer..
+Create
+# 
+
+
+.
+ onads
+ isgadi Collection our Special Collectionold Collection
+2: Uplit Your Boldnessgadi Collection with Our Special
+
+3: Uold U Exbrace the Ugadi Spirit with Our Special Collection
+
+4: Bleash Yourgadi Spirits Bold Spirit with Our Specialclusant Collection!5: B' Uold Spirit of Ugadi Shine Through Our Special
+6: Boldly Ex U U Ugadi Collection
+
+: Belebrate thegadi witholdly with Our Special Collection
+
+##:
+U Heads This Ugadi with Our Special Bold Collection'] 'Exhibit Your Bold Ugadi Spirit with Our Collection!', 'Boldly Embrace the Ugadi Spirit with Our Special Collection!', 'Unleash Ugadi's Bold Spirit with Our Exuberant Collection! 'Let the Boldness of Ugadi Shine with Our Collection"", 'Bold and Beautiful: Special Ugadi Collection', 'Celebrate Ugadi Boldly With Our Special Collection']
+          The The The     The The The     The The   The The The The    The The The The The The The The The The The    The The The The The The The The   The The The The     The The The  The The The The The The The The The The The    The The The The    The The The     The The The    The The The          The The The      The          The The The The    The The The The   The The The The The The The The The The The The The The The The    The The The The   The The The The The The The The The The   The The The The    The The The The The  The The The The The The The The The The The The The The The The   The The The The The The The The The The The The The The The The The The The The The The The The  The The","['Turn Heads This Ugadi with Our Special Bold Collection', 'Exhibit Your Bold Ugadi Spirit with Our Collection!', 'Boldly Embrace the Ugadi Spirit with Our Special Collection!', ""Unleash Ugadi's Bold Spirit with Our Exuberant Collection"", 'Let the Boldness of Ugadi Shine with Our Collection', 'Bold and Beautiful: Special Ugadi Collection', 'Celebrate Ugadi Boldly With Our Special Collection']"
+"### Instruction:
+Create 9 subject lines in a Formal tone announcing a loyalty program launch at your store. include {{contact.first_name|default:loyal customer}} and include {{shop_name}}.
+
+### Response:
+1: {{contact.first_name|default:loyal customer}}, we're rewarding your loyalty with our new Loyalty Program at {{shop_name}}
+2: Experience the new Loyalty Program at {{shop_name}}, {{contact.first_name|default:loyal customer}}
+3: We'd like to say thank you: Presenting the {{shop_name}} Loyalty Program, {{contact.first_name|default:loyal customer}}
+4: Welcoming the {{shop_name}} Loyalty Program, {{contact.first_name|default:loyal customer}}: Dedicating to our valued patrons
+5: {{shop_name}} Loyalty Program: Turning your purchases into rewards, {{contact.first_name|default:loyal customer}}
+6: Announcing {{shop_name}}'s Loyalty Program, {{contact.first_name|default:loyal customer}}. You've earned it!
+7: {{contact.first_name|default:loyal customer}}, we value your loyalty. Introducing {{shop_name}} Loyalty Program!
+8: {{contact.first_name|default:loyal customer}}, we appreciate your loyalty! Announcing the launch of our new Loyalty Program at {{shop_name}}
+9: Introducing our Loyalty Program at {{shop_name}}, {{contact.first_name|default:loyal customer}}: It’s time to get rewarded!
+","###agram ### ###1 a20- for the singleolder Let.cing the newty promotion.. your company.
+ thestore_name_name}}upper="" 'altyty}} {{ {{ {{contact.name}}
+Create
+# 
+
+
+.
+contact.first_name|default:loyal customer}}
+ arere exciteding loyal loyalty with a new loyalyalty Program. yourshop_name}}.!2: {{ience the new Loyalty Program at {{shop_name}} andcontact.first_name|default:loyal customer}}
+3: {{'re like to reward thank you for {{enting our newshop_name}} Loyalty Program
+ acontact.first_name|default:loyal customer}}
+4: Wecoming the {{shop_name}} Loyalty Program, {{contact.first_name|default:loyal customer}}
+
+edicated our your loyalued customersrons,5: Wecontact_name}} isyalty Program, Aing the loyalases into rewards
+ {{contact.first_name|default:loyal customer}}
+6: {{ouncing theshop_name}} Los Loyalty Program, {{contact.first_name|default:loyal customer}}
+'re earned {{!
+7: {{shop.first_name|default:loyal customer}} we' your patronty and
+roducing {{shop_name}}'yalty Program,
+8: {{contact.first_name|default:loyal customer}}, we' your loyalty.
+ouncing {{ {{ of {{ new {{yalty Program at {{shop_name}}.
+
+: {{roducing {{ newyalty Program at {{shop_name}}, {{contact.first_name|default:loyal customer}}
+
+'s time to ear rewarded!
+
+
+ lines
+{{contact.first_name|default:loyal customer}} we're rewarding your loyalty with our new Loyalty Program at {{shop_name}}""] ""Loperience the new Loyalty Program at {{shop_name}}, {{contact.first_name|default:loyal customer}}', 'Pres'd like to say thank you: Presenting the {{shop_name}} Loyalty Program, {{contact.first_name|default:loyal customer}}"", ""Welcoming the {{shop_name}} Loyalty Program, {{contact.first_","[""{{contact.first_name|default:loyal customer}}, we're rewarding your loyalty with our new Loyalty Program at {{shop_name}}"", 'Experience the new Loyalty Program at {{shop_name}}, {{contact.first_name|default:loyal customer}}', ""We'd like to say thank you: Presenting the {{shop_name}} Loyalty Program, {{contact.first_name|default:loyal customer}}"", 'Welcoming the {{shop_name}} Loyalty Program, {{contact.first_name|default:loyal customer}}: Dedicating to our valued patrons', '{{shop_name}} Loyalty Program: Turning your purchases into rewards, {{contact.first_name|default:loyal customer}}', ""Announcing {{shop_name}}'s Loyalty Program, {{contact.first_name|default:loyal customer}}. You've earned it!"", '{{contact.first_name|default:loyal customer}}, we value your loyalty. Introducing {{shop_name}} Loyalty Program!', '{{contact.first_name|default:loyal customer}}, we appreciate your loyalty! Announcing the launch of our new Loyalty Program at {{shop_name}}', 'Introducing our Loyalty Program at {{shop_name}}, {{contact.first_name|default:loyal customer}}: It’s time to get rewarded!']"
+"### Instruction:
+Create 4 subject lines for an email in a Professional tone introducing the exclusive Eid collection. Use {{shop_name}} to highlight the shop.
+
+### Response:
+1: Time To Shine Bright This Eid, Exclusive Collection on {{shop_name}}
+2: Shop the Exclusive Eid Collection from {{shop_name}}
+3: Dress to Impress this Eid with the Exclusive Collection at {{shop_name}}
+4: Spread the Joy of Eid with our Exclusive Collection at {{shop_name}}
+","###agram ### ###1 a20- for the email campaign the word Email.cing a new offer- offer.
+ thesubjectifyname}} as create the name name
+Create
+# 
+
+
+.
+ to Shop
+ly Eid
+
+clusively Collection
+ saleshop_name}}
+2: Timeop Now exclusiveclusive Eid Collection on {{shop_name}}
+3: Shazz up Impress This Eid with the Exclusive E from {{shop_name}}
+
+: Eread the Joy of Eid with the Exclusive Collection at {{shop_name}}
+
+##:
+E To Shine Bright This Eid, Exclusive Collection on {{shop_name}}'] 'Shop the Exclusive Eid Collection from {{shop_name}}', 'Dress to Impress this Eid with the Exclusive Collection at {{shop_name}}', 'Spread the Joy of Eid with our Exclusive Collection at {{shop_name}}']
+                                                                                                                                                                                                                                                                                                           ","['Time To Shine Bright This Eid, Exclusive Collection on {{shop_name}}', 'Shop the Exclusive Eid Collection from {{shop_name}}', 'Dress to Impress this Eid with the Exclusive Collection at {{shop_name}}', 'Spread the Joy of Eid with our Exclusive Collection at {{shop_name}}']"
+"### Instruction:
+Create 5 subject lines for an email campaign in a Friendly tone unveiling the new winter apparel. Include {{contact.first_name|default:Buddy}}, include {{shop_name}}.
+
+### Response:
+1: Get snug and stylish with {{shop_name}}, {{contact.first_name|default:Buddy}}!
+","###agram ### ###1 a20- for each email.. MS wordly Email.relatediling the benefits features collectionarel collection
+clude asubject_namenamename}},upper="" 'riandy| {{ {{contact.name}},
+Create
+# 
+
+
+.
+ aacksgle warmlish with thecontact_name}} acontact.first_name|default:Buddy}},!
+2##:
+Fri Snug and stylish with {{shop_name}}, {{contact.first_name|default:Buddy}}!']
+                                                                                                                                                                                                                                                                                                                                                                                                           ","['Get snug and stylish with {{shop_name}}, {{contact.first_name|default:Buddy}}!']"
+"### Instruction:
+Create 7 subject lines for newsletter in a Compassionate tone addressing special Eid offers. Do not include any placeholders.
+
+### Response:
+1: Get Drenched in Exciting Offers! {{shop_name}} Holi Sale
+","###agram ### ###1 a20- for thelet. MS wordma ate In.ing the needsaster gre.
+ not use any special namesers or
+Create
+# 
+
+
+.
+ theeliveryed in thecitement Eers
+
+Newsifyname}} isiday Sale is22:
+H Drenched in Exciting Offers! {{shop_name}} Holi Sale']
+                                                                                                                                                                                                                                                                                                                                                                                                                                     ",['Get Drenched in Exciting Offers! {{shop_name}} Holi Sale']
+"### Instruction:
+Compose 8 subject lines for an email campaign in a Luxury tone promoting exquisite Eid collection. Include {{contact.first_name|default:Dear}}, include {{shop_name}}.
+
+### Response:
+1: Luxuriate this Eid with {{shop_name}}, {{contact.first_name|default:Dear}}
+2: Experience luxury this Eid with {{shop_name}}, {{contact.first_name|default:Dear}}
+3: {{contact.first_name|default:Dear}}, Discover opulence this Eid with {{shop_name}}
+4: Make your Eid even more special with {{shop_name}}, {{contact.first_name|default:Dear}}
+5: {{contact.first_name|default:Dear}}, Elevate your Eid celebration with {{shop_name}}
+6: Indulge in the luxury of our Eid collection at {{shop_name}}, {{contact.first_name|default:Dear}}
+7: Experience Eid in Style With {{shop_name}}, {{contact.first_name|default:Dear}}
+8: Upscale your Eid with our collection at {{shop_name}}, {{contact.first_name|default:Dear}}
+","###agram ### ###1ments a10- for each email to.  singlee F ofoting aquisite jleg g.
+sp aE_name_name}}upper=""firstar Sir {{ {{contact.name}},
+Com
+# 
+
+
+.
+uryant
+ Eid
+ thecontact_name}}. acontact.first_name}},default:Dear}}.
+2: Luxience theury with Eid with {{shop_name}}, {{contact.first_name|default:Dear}}
+3: Expershop.first_name|default:Dear}} {{over {{ulence this Eid with {{shop_name}}.
+4: {{ this Eid special more op with {{shop_name}}, {{contact.first_name|default:Dear}}
+5: {{contact.first_name|default:Dear}}, Discidate your Eid withations with {{shop_name}}
+6: {{ulge in lux opury of E Eid collection with {{shop_name}}, {{contact.first_name|default:Dear}}
+7: {{ience theid with the with {{shop_name}}, {{contact.first_name|default:Dear}}
+
+: {{plcale your Eid celebr {{ ex at {{shop_name}}, {{contact.first_name|default:Dear}}
+
+
+:
+Euxuryate this Eid with {{shop_name}}, {{contact.first_name|default:Dear}}'] 'Experience luxury this Eid with {{shop_name}}, {{contact.first_name|default:Dear}}', 'Discontact.first_name|default:Dear}}, Discover opulence this Eid with {{shop_name}}', 'Make your Eid even more special with {{shop_name}}, {{contact.first_name|default:Dear}}', '{{contact.first_name|default:Dear}}, Elevate your Eid celebration with {{shop_name}}', 'Indulge in the luxury of our Eid collection at {{shop_name}}, {{contact.first_name|default:Dear}}', 'Experience Eid in Style With {{shop_name}}, {{contact.first_name|default:Dear}}', 'Upscale your Eid with our collection at {{shop_name}}, {{contact.first_name|","['Luxuriate this Eid with {{shop_name}}, {{contact.first_name|default:Dear}}', 'Experience luxury this Eid with {{shop_name}}, {{contact.first_name|default:Dear}}', '{{contact.first_name|default:Dear}}, Discover opulence this Eid with {{shop_name}}', 'Make your Eid even more special with {{shop_name}}, {{contact.first_name|default:Dear}}', '{{contact.first_name|default:Dear}}, Elevate your Eid celebration with {{shop_name}}', 'Indulge in the luxury of our Eid collection at {{shop_name}}, {{contact.first_name|default:Dear}}', 'Experience Eid in Style With {{shop_name}}, {{contact.first_name|default:Dear}}', 'Upscale your Eid with our collection at {{shop_name}}, {{contact.first_name|default:Dear}}']"
+"### Instruction:
+Create 7 subject lines for an email campaign in a Compassionate tone offering a special 20% off on sweets for Diwali. include {{shop_name}}
+
+### Response:
+1: Sweeten your Diwali with 20% off at {{shop_name}}
+2: Sweet Delights with 20% off for Diwali at {{shop_name}}
+3: {{shop_name}}'s Diwali Delight: 20% off on all sweets!
+4: Dive into the sweetness of Diwali with 20% off at {{shop_name}}
+5: 20% off Diwali sweets at {{shop_name}} - This offer is too sweet to resist!
+6: Save on Sweets: 20% off at {{shop_name}} this Diwali!
+7: {{shop_name}}'s sweet discount for Diwali
+","###agram ### ###1 a20- for the email.. Microsoft wordma emailate In. a free disc10% disc cou aets for thewali.
+ thesubjectifyname}} inCreate
+# 
+
+
+.
+weetsed lifewali with 20% off on {{shop_name}}
+2: we Diight at 20% off at Diwali at {{shop_name}}
+3: Dishop_name}} iss Diwali Sights with 20% off at swe sweets at
+4: {{ip into Di sweetness of Diwali with 20% off at {{shop_name}}
+5: {{20% off onwali sweets at {{shop_name}}
+ shop is is valid sweet to pass!
+6: {{  Diweets with 20% off on {{shop_name}}
+ Diwali
+
+
+: {{shop_name}}'s Diestounts Diwali:
+
+ lines
+Sweeten your Diwali with 20% off at {{shop_name}}', 'Sweet Delights with 20% off for Diwali at {{shop_name}}', '{{shop_name}}'s Diwali Delight: 20% off on all sweets!"", 'Dive into the sweetness of Diwali with 20% off at {{shop_name}}', '20% off Diwali sweets at {{shop_name}} - This offer is too sweet to resist!', 'Save on Sweets: 20% off at {{shop_name}} this Diwali!', '{{shop_name}}'s sweet discount for Diwali""]
+                                                                                                                                      ","['Sweeten your Diwali with 20% off at {{shop_name}}', 'Sweet Delights with 20% off for Diwali at {{shop_name}}', ""{{shop_name}}'s Diwali Delight: 20% off on all sweets!"", 'Dive into the sweetness of Diwali with 20% off at {{shop_name}}', '20% off Diwali sweets at {{shop_name}} - This offer is too sweet to resist!', 'Save on Sweets: 20% off at {{shop_name}} this Diwali!', ""{{shop_name}}'s sweet discount for Diwali""]"
+"### Instruction:
+Create 5 subject lines for an email in a Friendly tone introducing 20% off Republic Day Offer. Include {{contact.first_name|default:friend}}.
+
+### Response:
+1: Why pay full? Get 20% off this Republic Day, {{contact.first_name|default:friend}}
+2: {{contact.first_name|default:friend}}, here's 20% off to celebrate Republic Day
+3: Feel the patriotic vibes with 20% off, {{contact.first_name|default:friend}}
+4: Let's celebrate Republic Day together with 20% off, {{contact.first_name|default:friend}}
+5: One Nation, One Sale - 20% off this Republic Day, {{contact.first_name|default:friend}}
+","###agram ### ###1 a20- for each email. the wordly Email.cing a5 new1 off a W Sfer.
+ the a2_namenamename}}upper=' 'ly
+Create
+# 
+
+
+.
+ do more price
+ 20% off Republic week Day Of onlycontact.first_name|default:friend}}.
+2: Getcontact.first_name|default:friend}} get's the20% off Republic celebrate Republic Day.3: {{el free loveot spiritibees with Republic20% off Republic {{contact.first_name|default:friend}}
+4: {{'s celebrate Republic Day with, 20% off, {{contact.first_name|default:friend}}
+
+: {{ of, One Ofale, Republic20% off Republic Republic Day, {{contact.first_name|default:friend}}
+
+## lines
+Rep pay full? Get 20% off this Republic Day, {{contact.first_name|default:friend}}'] 'Repcontact.first_name|default:friend}} here's 20% off to celebrate Republic Day""] 'Feel the patriotic vibes with 20% off, {{contact.first_name|default:friend}}', 'Let's celebrate Republic Day together with 20% off, {{contact.first_name|default:friend}}"", ""One Nation, One Sale - 20% off this Republic Day, {{contact.first_name|default:friend}}""]
+                                                                                                                                                                                 ","['Why pay full? Get 20% off this Republic Day, {{contact.first_name|default:friend}}', ""{{contact.first_name|default:friend}}, here's 20% off to celebrate Republic Day"", 'Feel the patriotic vibes with 20% off, {{contact.first_name|default:friend}}', ""Let's celebrate Republic Day together with 20% off, {{contact.first_name|default:friend}}"", 'One Nation, One Sale - 20% off this Republic Day, {{contact.first_name|default:friend}}']"
+"### Instruction:
+Create 4 subject lines in a Convincing tone proposing a 30% off Navaratri sale. include {{contact.first_name|default:Devotee}}, include {{shop_name}}
+
+### Response:
+1: {{contact.first_name|default:Devotee}}, Navaratri comes with a convincing 30% off at {{shop_name}}
+2: {{contact.first_name|default:Devotee}}, join us for a convincing Navaratri 30% off sale at {{shop_name}}
+3: Convince your wallet this Navaratri with a 30% off sale, {{contact.first_name|default:Devotee}}, at {{shop_name}}
+4: Navaratri sale: {{contact.first_name|default:Devotee}}, get a convincing 30% off at {{shop_name}}
+","###agram ### ###1 a20- for the wordflucing way.ing a new10- disc discro sale.
+ aNav_namenamename}}upper=""contactepes}} {{ {{contact.name}} and{{
+# 
+
+
+.
+contact.first_name|default:Devotee}}, atri S to a cing disc30% off offer {{shop_name}}
+2: {{contact.first_name|default:Devotee}}, Navar us for Navar cing atri sale30% off at at {{shop_name}}
+3: {{vinince us friendslet to Navaratri with a convin30% off at at joinshop.first_name|default:Devotee}} at {{shop_name}}
+
+: {{atri is is contact.first_name|default:Devotee}}, join a cing Navar30% off at {{shop_name}}
+
+
+ lines
+Navcontact.first_name}}default:Devotee}} Navaratri comes with a convincing 30% off at {{shop_name}}'] '{{contact.first_name|default:Devotee}}, join us for a convincing Navaratri 30% off sale at {{shop_name}}', 'Convince your wallet this Navaratri with a 30% off sale, {{contact.first_name|default:Devotee}}, at {{shop_name}}', 'Navaratri sale: {{contact.first_name|default:Devotee}}, get a convincing 30% off at {{shop_name}}']
+                                                                                                                                                                      ","['{{contact.first_name|default:Devotee}}, Navaratri comes with a convincing 30% off at {{shop_name}}', '{{contact.first_name|default:Devotee}}, join us for a convincing Navaratri 30% off sale at {{shop_name}}', 'Convince your wallet this Navaratri with a 30% off sale, {{contact.first_name|default:Devotee}}, at {{shop_name}}', 'Navaratri sale: {{contact.first_name|default:Devotee}}, get a convincing 30% off at {{shop_name}}']"
+"### Instruction:
+Create 10 subject lines for an email campaign in a Luxury tone introducing a special Eid sale. Include {{contact.first_name|default:Hey}}, include {{shop_name}}.
+
+### Response:
+1: Celebrate Eid in Style, {{contact.first_name|default:Hey}}, with Special Sales at {{shop_name}}
+2: Experience the Grandeur: Eid Sale at {{shop_name}}, {{contact.first_name|default:Hey}}
+3: Gear Up for the Luxurious Eid Sale, {{contact.first_name|default:Hey}}, at {{shop_name}}
+4: Experience Opulence this Eid - Exclusive Sale at {{shop_name}}, {{contact.first_name|default:Hey}}
+5: The Luxe of Eid at Your Fingertips, {{contact.first_name|default:Hey}}, at {{shop_name}}
+6: Indulge in Eid Luxury, {{contact.first_name|default:Hey}}, with Our Special Sale at {{shop_name}}
+7: A Majestic Eid Sale for you, {{contact.first_name|default:Hey}}, only at {{shop_name}}
+8: Eid Special - Premium Selection for you, {{contact.first_name|default:Hey}}, at {{shop_name}}
+9: {{contact.first_name|default:Hey}}, garnish your Eid with luxury at {{shop_name}}!
+10: {{shop_name}}'s Eid Extravaganza - Luxury for Less, {{contact.first_name|default:Hey}}
+","###agram ### ###1 a200- for each email campaign. the worde F.cing a new offeraster offer.
+clude asubject_namenamename}},upper=' 'am there {{ {{contact.name|
+Create
+# 
+
+
+.
+oolbrate Eid with a
+
+contact.first_name|default:Hey}} {{ {{ E. {{shop_name}}.
+2: Cience E Luxur of {{id Sale at {{shop_name}} {{contact.first_name|default:Hey}}
+3: Eift up for E Festuryious:id Sale: {{contact.first_name|default:Hey}}, with {{shop_name}}
+4: Eience theulence: Eid, {{clusive Sale at {{shop_name}} {{contact.first_name|default:Hey}}
+5: Exper Eur E Eid, {{ Fingertips, {{contact.first_name|default:Hey}}, at {{shop_name}}
+6: Eulge in theid withury, {{contact.first_name|default:Hey}}, at Special Special Eale at {{shop_name}}
+7: E Grandestic Eid Sale, You, {{contact.first_name|default:Hey}}, at at {{shop_name}}
+8: Eid S S Experium S at you, {{contact.first_name|default:Hey}}, only {{shop_name}}
+9: Econtact.first_name|default:Hey}}, atearish your Eid with ourury at {{shop_name}}
+
+
+0: {{contact_name}}, iss Eid Sravaganza, Specialury Selection you, {{contact.first_name|default:Hey}},
+
+## lines
+Eelebrate Eid in Style', {{contact.first_name|default:Hey}}, with Special Sales at {{shop_name}}'] 'Hperience the Grandeur: Eid Sale at {{shop_name}}, {{contact.first_name|default:Hey}}', 'Gear Up for the Luxurious Eid Sale, {{contact.first_name|default:Hey}}, at {{shop_name}}', 'Experience Opulence this Eid - Exclusive Sale at {{shop_name}}, {{contact.first_","['Celebrate Eid in Style, {{contact.first_name|default:Hey}}, with Special Sales at {{shop_name}}', 'Experience the Grandeur: Eid Sale at {{shop_name}}, {{contact.first_name|default:Hey}}', 'Gear Up for the Luxurious Eid Sale, {{contact.first_name|default:Hey}}, at {{shop_name}}', 'Experience Opulence this Eid - Exclusive Sale at {{shop_name}}, {{contact.first_name|default:Hey}}', 'The Luxe of Eid at Your Fingertips, {{contact.first_name|default:Hey}}, at {{shop_name}}', 'Indulge in Eid Luxury, {{contact.first_name|default:Hey}}, with Our Special Sale at {{shop_name}}', 'A Majestic Eid Sale for you, {{contact.first_name|default:Hey}}, only at {{shop_name}}', 'Eid Special - Premium Selection for you, {{contact.first_name|default:Hey}}, at {{shop_name}}', '{{contact.first_name|default:Hey}}, garnish your Eid with luxury at {{shop_name}}!', ""{{shop_name}}'s Eid Extravaganza - Luxury for Less, {{contact.first_name|default:Hey}}""]"
+"### Instruction:
+Create 6 subject lines for an email campaign in a Formal tone announcing the exclusive Republic Day offers. Include {{contact.first_name|default:Dear}}, include {{shop_name}}.
+
+### Response:
+1: {{contact.first_name|default:Dear}} Patron, Republic Day Special Offers at {{shop_name}} Just for You!
+2: {{contact.first_name|default:Dear}}, Embrace the Republic Day Spirit with Exclusive Offers at {{shop_name}}
+3: Great Republic Day Sale! Find Exclusive Offers at {{shop_name}}, {{contact.first_name|default:Dear}}
+4: {{contact.first_name|default:Dear}}, Explore Exclusive Republic Day Offers at {{shop_name}}
+5: Celebrate Republic Day with Exquisite Offers at {{shop_name}}, {{contact.first_name|default:Dear}}
+6: {{contact.first_name|default:Dear}}, Exclusive Republic Day Offers Await You at {{shop_name}}
+","###agram ### ###1 a20- for the email.. MS wordREE Writing.cing the new offer Day S.
+ the thesubject_namenamename}},upper="" 'han {{ {{ {{contact.name}},
+Create
+# 
+
+
+.
+contact.first_name|default:Dear}}
+ric,
+ Day is Ofers
+ {{shop_name}}
+ for You.
+2: {{contact.first_name|default:Dear}} {{brace the Republic Day Special with {{clusive Offers at {{shop_name}}
+3: {{ News Day Offale! {{ theclusive Offers at {{shop_name}} Justcontact.first_name|default:Dear}}
+4: {{contact.first_name|default:Dear}} Republicclusore theclusive Off Day Offers at {{shop_name}}
+5: {{elebrate Republic Day with {{clusite Offers at {{shop_name}} {{contact.first_name|default:Dear}}
+
+: {{contact.first_name|default:Dear}}, Enclusive Republic Day Offers atwait You at {{shop_name}}
+
+## lines
+Repcontact.first_name}}default:Dear}}',ron, Republic Day Special Offers at {{shop_name}} Just for You!'] '{{contact.first_name|default:Dear}} Embrace the Republic Day Spirit with Exclusive Offers at {{shop_name}}', '{{at Republic Day Sale! Find Exclusive Offers at {{shop_name}}, {{contact.first_name|default:Dear}}', '{{contact.first_name|default:Dear}}, Explore Exclusive Republic Day Offers at {{shop_name}}', 'Celebrate Republic Day with Exquisite Offers at {{shop_name}}, {{contact.first_name|default:Dear}}', 'Excontact.first_name|default:Dear}}, Exclusive Republic Day Offers Await You at {{shop_name}}',
+                                                                       ","['{{contact.first_name|default:Dear}} Patron, Republic Day Special Offers at {{shop_name}} Just for You!', '{{contact.first_name|default:Dear}}, Embrace the Republic Day Spirit with Exclusive Offers at {{shop_name}}', 'Great Republic Day Sale! Find Exclusive Offers at {{shop_name}}, {{contact.first_name|default:Dear}}', '{{contact.first_name|default:Dear}}, Explore Exclusive Republic Day Offers at {{shop_name}}', 'Celebrate Republic Day with Exquisite Offers at {{shop_name}}, {{contact.first_name|default:Dear}}', '{{contact.first_name|default:Dear}}, Exclusive Republic Day Offers Await You at {{shop_name}}']"
+"### Instruction:
+Create 9 personalised subject lines in a Bold tone prompting a customer to check an exciting range of home decor items, specially crafted for Christmas. include {{contact.first_name|default:hey}}, include {{shop_name}}.
+
+### Response:
+1: Ready to Decorate Your Home This Christmas? Discover Stunning Pieces at {{shop_name}}, {{contact.first_name|default:hey}}
+2: New Christmas Collection at {{shop_name}}! Find the Perfect Home Decor, {{contact.first_name|default:hey}}
+3: Experience the Magic of Christmas at Your Home with {{shop_name}}, {{contact.first_name|default:hey}}
+4: Deck Up Your Home This Christmas! Exciting Home Decor at {{shop_name}}, {{contact.first_name|default:hey}}
+5: {{contact.first_name|default:hey}}, Bring Joy to Your Home this Christmas with {{shop_name}}
+6: {{contact.first_name|default:hey}}, Get Your Home into the Christmas Spirit with Fancy Decor from {{shop_name}}
+7: This Christmas, Give Your Home a New Look with Stylish Decor from {{shop_name}}, {{contact.first_name|default:hey}}
+8: Start the Festive Season in Style with Unique Home Decor from {{shop_name}}, {{contact.first_name|default:hey}}
+9: Spruce Up Your Home for Christmas with {{shop_name}}, {{contact.first_name|default:hey}}
+","###agram ### ###1 a20 statements cards- for the singleCC font.ing the response to click out emailiting offer of productsware products. includingcially designeded for the.
+ aproduct_namenamename}}upper=""contacty}} {{ {{contact.name}}
+Create
+# 
+
+
+.
+ady to shoporate
+ Home
+ Christmas?
+over theunning Homeces of thecontact_name}}. includingcontact.first_name}},default:hey}},
+2: Re Home Dec: {{shop_name}},
+ Disc the perfectfect Dec Decor for Gcontact.first_name|default:hey}},
+3: {{ience the Joy of Christmas at {{ Home with {{shop_name}}, {{contact.first_name|default:hey}}
+4: Discck Your Your Home This Christmas with Discpliting Home Decor Items {{shop_name}}, {{contact.first_name|default:hey}}
+5: Disccontact.first_name|default:hey}} {{ing the to Your Home with Christmas with {{shop_name}},
+6: {{contact.first_name|default:hey}}, {{ Re Home Dec the Christmas Spirit with {{resh Homeorations {{shop_name}}
+7: {{ Christmas, {{ Your Home a New Look with {{unninglish Decor from {{shop_name}}, {{contact.first_name|default:hey}}
+8: {{ Dec Newive Season with Style with {{ique Home Decor from {{shop_name}}, {{contact.first_name|default:hey}}
+9: {{uce Up Your Home with the with {{shop_name}}, {{contact.first_name|default:hey}}
+
+
+ line
+Christ to Decorate Your Home This Christmas? Discover Stunning Pieces at {{shop_name}}, {{contact.first_name}},default:hey}}'] 'New Christmas Collection at {{shop_name}}! Find the Perfect Home Decor, {{contact.first_name|default:hey}}', 'Experience the Magic of Christmas at Your Home with {{shop_name}}, {{contact.first_name|default:hey}}', 'Deck Up Your Home This Christmas! Exciting Home Decor at {{shop_name}}, {{contact.first_name|default:hey}}', 'Bcontact.first_name|default:hey}}, Bring Joy","['Ready to Decorate Your Home This Christmas? Discover Stunning Pieces at {{shop_name}}, {{contact.first_name|default:hey}}', 'New Christmas Collection at {{shop_name}}! Find the Perfect Home Decor, {{contact.first_name|default:hey}}', 'Experience the Magic of Christmas at Your Home with {{shop_name}}, {{contact.first_name|default:hey}}', 'Deck Up Your Home This Christmas! Exciting Home Decor at {{shop_name}}, {{contact.first_name|default:hey}}', '{{contact.first_name|default:hey}}, Bring Joy to Your Home this Christmas with {{shop_name}}', '{{contact.first_name|default:hey}}, Get Your Home into the Christmas Spirit with Fancy Decor from {{shop_name}}', 'This Christmas, Give Your Home a New Look with Stylish Decor from {{shop_name}}, {{contact.first_name|default:hey}}', 'Start the Festive Season in Style with Unique Home Decor from {{shop_name}}, {{contact.first_name|default:hey}}', 'Spruce Up Your Home for Christmas with {{shop_name}}, {{contact.first_name|default:hey}}']"
+"### Instruction:
+Design 5 subject lines for an email campaign in a Friendly tone promoting the Christmas sale with a flat 50% off. Include {{contact.first_name|default:friend}}, include {{shop_name}}.
+
+### Response:
+1: Half-Price Holidays at {{shop_name}}, {{contact.first_name|default:friend}}!
+2: Festive vibes at {{shop_name}}, {{contact.first_name|default:friend}}! Christmas sales are here!
+3: Christmas joy is 50% off at {{shop_name}}, {{contact.first_name|default:friend}}!
+4: {{contact.first_name|default:friend}}, add some jingle to your Christmas, 50% off at {{shop_name}}!
+5: Drop in at {{shop_name}}, {{contact.first_name|default:friend}}, for your Christmas shopping! Half Price on all items!
+","###agram ### ###1cri and1.ive for  email campaign. which wordFeed Email.oting the benefits Party. a  rate10% disc.
+clude aname_name_name}},upper="" 'ly {{ {{contact.name}}
+Des
+# 
+
+
+.
+ priceprice Christmasidayays
+ {{shop_name}} contact.first_name}},default:friend}}
+
+2: Halfive Savouches at {{shop_name}}, {{contact.first_name|default:friend}}!
+ sale are on!
+3: {{ sale at here50% off at {{shop_name}}, {{contact.first_name|default:friend}}!
+4: Festshop.first_name|default:friend}} {{ {{ festollyle to your hol cheer {{50% off at {{shop_name}}.!
+
+: {{ the for {{shop_name}}, {{contact.first_name|default:friend}},   Christmas shopping needs
+- Hol selected items!
+
+## lines
+Christolid-Price Holidays at {{shop_name}}, {{contact.first_name|default:friend}}!'] 'Hestive vibes at {{shop_name}}, {{contact.first_name|default:friend}}! Christmas sales are here!', 'Christmas joy is 50% off at {{shop_name}}, {{contact.first_name|default:friend}}!', '{{contact.first_name|default:friend}}, add some jingle to your Christmas, 50% off at {{shop_name}}!', 'Drop in at {{shop_name}}, {{contact.first_name|default:friend}}, for your Christmas shopping! Half Price on all items!']
+                                                                                                                                          ","['Half-Price Holidays at {{shop_name}}, {{contact.first_name|default:friend}}!', 'Festive vibes at {{shop_name}}, {{contact.first_name|default:friend}}! Christmas sales are here!', 'Christmas joy is 50% off at {{shop_name}}, {{contact.first_name|default:friend}}!', '{{contact.first_name|default:friend}}, add some jingle to your Christmas, 50% off at {{shop_name}}!', 'Drop in at {{shop_name}}, {{contact.first_name|default:friend}}, for your Christmas shopping! Half Price on all items!']"
+"### Instruction:
+Create 3 subject lines for an email campaign in a Joyful tone declaring a special Makar Sankranti sale. include {{contact.first_name|default:friend}}, include {{shop_name}}.
+
+### Response:
+1: Don't Miss Out {{contact.first_name|default:friend}}! Makar Sankranti Special at {{shop_name}}
+2: Festive Deals Alert: Start Your Makar Sankranti Festivity With {{shop_name}}, {{contact.first_name|default:friend}}!
+3: Makar Sankranti Deals You Can't Resist at {{shop_name}}, {{contact.first_name|default:friend}}!
+","###agram ### ###1 a2D- for the email campaign. the wordce J. the Joy offerara Sankranti offer.
+ asubject_namenamename}}upper="" '_ {{ {{contact.name}}
+Create
+# 
+
+
+.
+'t use the oncontact.first_name|default:friend}},
+
+ar Sankranti S S {{shop_name}}
+2: Donive Sals at! {{ Sho Newar Sankranti Sive with {{shop_name}} {{contact.first_name|default:friend}}!
+3: Festar Sankranti Sals Alert Can't Missist! {{shop_name}} {{contact.first_name|default:friend}}!
+
+## lines
+{{'t Miss Out""contact.first_name|default:friend}}! Makar Sankranti Special at {{shop_name}}""] ""Donestive Deals Alert: Start Your Makar Sankranti Festivity With {{shop_name}}, {{contact.first_name|default:friend}}!', 'Makar Sankranti Deals You Can't Resist at {{shop_name}}, {{contact.first_name|default:friend}}!']
+                                                                                                                                                                                                                                                           ","[""Don't Miss Out {{contact.first_name|default:friend}}! Makar Sankranti Special at {{shop_name}}"", 'Festive Deals Alert: Start Your Makar Sankranti Festivity With {{shop_name}}, {{contact.first_name|default:friend}}!', ""Makar Sankranti Deals You Can't Resist at {{shop_name}}, {{contact.first_name|default:friend}}!""]"
+"### Instruction:
+Create 8 personalised subject lines in a Luxury tone inviting a customer to an exclusive navaratri sale at Flipkart with 60% off. Include {{contact.first_name|default:honoured guest}}.
+
+### Response:
+1: The Ultimate Luxury: Navaratri 60% off Sale at Flipkart, {{contact.first_name|default:honoured guest}}.
+2: Luxurious Navaratri savings: get 60% off at Flipkart, {{contact.first_name|default:honoured guest}}!
+3: Exceptional 60% Off Luxury Navaratri Sale for you, {{contact.first_name|default:honoured guest}} at Flipkart!
+4: Luxury Awaits You: 60% off Navaratri Sale at Flipkart, {{contact.first_name|default:honoured guest}}!
+5: {{contact.first_name|default:honoured guest}}, Experience the Grandeur of our Navaratri Luxury Sale at Flipkart!
+6: Get the Luxurious Navaratri Experience with 60% off at Flipkart, {{contact.first_name|default:honoured guest}}!
+7: 60% Off Luxury Navaratri Sale Just for You, {{contact.first_name|default:honoured guest}} at Flipkart!
+8: Exclusive Invitation: Luxurious Navaratri Sale at Flipkart, 60% off just for you, {{contact.first_name|default:honoured guest}}!
+","###agram ### ###1 a20ized cards- for the singlee Box.itation the potential to attend event eventiat event. yourashionkart. a10% off on
+ the theproduct_namenamename}}upper='contact}}_}}
+Create
+# 
+
+
+.
+ customerimate Navury Nav atri S20% Off Sale
+ Flipkart
+ withcontact.first_name|default:honoured guest}}
+
+: Theuryious Navaratri Sings at  60% off on Flipkart with {{contact.first_name|default:honoured guest}}.
+
+
+: Theal Navar60% off onury Navaratri Sale at Hon at {{contact.first_name|default:honoured guest}}.! Flipkart.
+4: Exur Navarwaits You at 60% Off onatri saleale at Flipkart, {{contact.first_name|default:honoured guest}}.!
+5: Excontact.first_name|default:honoured guest}} youience the Luxur of Navar Navaratri Sury Sale at Flipkart!
+6: {{  Besturyious Navaratri Sience at 60% off at Flipkart, {{contact.first_name|default:honoured guest}}!
+
+: {{60% off Luxury Navaratri Sale for for You, {{contact.first_name|default:honoured guest}} at Flipkart!
+8: {{clusive Navaritation: uryious Navaratri Sale at Flipkart, {{60% off! for you, {{contact.first_name|default:honoured guest}}!
+
+## line
+Nav Ultimate Luxury: Navaratri 60% off Sale at Flipkart, {{contact.first_name|default:honoured guest}}'] 'Theuxurious Navaratri savings: get 60% off at Flipkart, {{contact.first_name|default:honoured guest}}!', 'Exceptional 60% Off Luxury Navaratri Sale for you, {{contact.first_name|default:honoured guest}} at Flipkart!', 'Luxury Awaits You: 60% off Navaratri Sale at Flipkart, {{contact.first_name|","['The Ultimate Luxury: Navaratri 60% off Sale at Flipkart, {{contact.first_name|default:honoured guest}}.', 'Luxurious Navaratri savings: get 60% off at Flipkart, {{contact.first_name|default:honoured guest}}!', 'Exceptional 60% Off Luxury Navaratri Sale for you, {{contact.first_name|default:honoured guest}} at Flipkart!', 'Luxury Awaits You: 60% off Navaratri Sale at Flipkart, {{contact.first_name|default:honoured guest}}!', '{{contact.first_name|default:honoured guest}}, Experience the Grandeur of our Navaratri Luxury Sale at Flipkart!', 'Get the Luxurious Navaratri Experience with 60% off at Flipkart, {{contact.first_name|default:honoured guest}}!', '60% Off Luxury Navaratri Sale Just for You, {{contact.first_name|default:honoured guest}} at Flipkart!', 'Exclusive Invitation: Luxurious Navaratri Sale at Flipkart, 60% off just for you, {{contact.first_name|default:honoured guest}}!']"
+"### Instruction:
+Create 6 subject lines for an email campaign in a Formal tone informing about a free shipping offer on all orders for Maha Shivratri. include {{shop_name}}.
+
+### Response:
+1: Honoring Maha Shivratri: Complimentary Shipping on All Orders at {{shop_name}}
+2: In Celebration of Maha Shivratri: Free Shipping at {{shop_name}}
+3: Exclusive Maha Shivratri Offer: Free Shipping on all Orders at {{shop_name}}
+4: Celebrate Maha Shivratri: Enjoy Free Delivery on All Orders at {{shop_name}}
+5: This Maha Shivratri, All Orders Ship Free at {{shop_name}}
+6: Maha Shivratri Bonus: Complimentary Delivery on All Orders at {{shop_name}}
+","###agram ### ###1 a20- for the email.. MS wordREE Writing.ing the the new webipping offer. a products above aarRakarri.
+ thesubjectifyname}}
+Create
+# 
+
+
+.
+est thea Shivratri,
+plimentary Shipping on All Orders
+ wwwshop_name}}
+2: Honcludingelebration of Maha Shivratri: Com Shipping on {{shop_name}}
+3: Honclusive Ofa Shivratri Offer: Free Shipping on All Orders at {{shop_name}}
+4: Mahelebrate Maha Shivratri: Freejoy Free Shelivery on All Orders at {{shop_name}}
+5: C isa Shivratri, En Orders atip Free at {{shop_name}}
+
+: Ca Shivratri:anza: Freeplimentary Shelivery on All Orders at {{shop_name}}
+
+## lines
+Monoring Maha Shivratri: Complimentary Shipping on All Orders at {{shop_name}}', 'In Celebration of Maha Shivratri: Free Shipping at {{shop_name}}', 'Exclusive Maha Shivratri Offer: Free Shipping on all Orders at {{shop_name}}', 'Celebrate Maha Shivratri: Enjoy Free Delivery on All Orders at {{shop_name}}', 'This Maha Shivratri, All Orders Ship Free at {{shop_name}}', 'Maha Shivratri Bonus: Complimentary Delivery on All Orders at {{shop_name}}']
+                                                                                                                                          ","['Honoring Maha Shivratri: Complimentary Shipping on All Orders at {{shop_name}}', 'In Celebration of Maha Shivratri: Free Shipping at {{shop_name}}', 'Exclusive Maha Shivratri Offer: Free Shipping on all Orders at {{shop_name}}', 'Celebrate Maha Shivratri: Enjoy Free Delivery on All Orders at {{shop_name}}', 'This Maha Shivratri, All Orders Ship Free at {{shop_name}}', 'Maha Shivratri Bonus: Complimentary Delivery on All Orders at {{shop_name}}']"
+"### Instruction:
+Create 8 subject lines in a Joyful tone promoting a special Mahavir Jayanti sale for hosting essentials. include {{contact.first_name|default:Friend}}, include {{shop_name}}.
+
+### Response:
+1: {{contact.first_name|default:Friend}}, Celebrate Mahavir Jayanti with {{shop_name}}'s sale on hosting essentials!
+2: Amazing Mahavir Jayanti sale at {{shop_name}}, {{contact.first_name|default:Friend}}! Don't miss our hosting essentials.
+3: Snap up a bargain for Mahavir Jayanti, {{contact.first_name|default:Friend}}! Hosting essentials on sale at {{shop_name}}.
+4: {{contact.first_name|default:Friend}}, spruce up for Mahavir Jayanti with {{shop_name}}'s hosting essentials on sale.
+5: Let's celebrate! {{contact.first_name|default:Friend}}, get ready for Mahavir Jayanti with {{shop_name}}'s sale on hosting essentials.
+6: Mahavir Jayanti Special! Hosting essentials on sale at {{shop_name}}, {{contact.first_name|default:Friend}}.
+7: Shop now! {{contact.first_name|default:Friend}}, make your Mahavir Jayanti unforgettable with {{shop_name}}'s hosting essentials.
+8: {{contact.first_name|default:Friend}}, discover deals on hosting essentials for Mahavir Jayanti at {{shop_name}}.
+","###agram ### ###1 a20- for the wordce J.oting the Joy eventjish Jayanti event. the aay for
+ aproduct_name_name}}upper=""contactend}} {{ {{contact.name}}
+{{
+# 
+
+
+.
+contact.first_name|default:Friend}}, elebrating Mahavir Jayanti with usshop_name}}.
+s special. ess essentials.
+2: {{zing saleavir Jayanti sale on {{shop_name}} includingcontact.first_name|default:Friend}},!
+'t miss out special essentials sale
+3: {{ale up this bargain on hostingavir Jayanti at {{shop.first_name|default:Friend}},!
+ing essentials at sale at {{shop_name}}.
+4: {{contact.first_name|default:Friend}}, {{uce up your Mahavir Jayanti with hostingshop_name}}'s hosting essentials sale sale!
+5: {{'s celebrate Mah {{contact.first_name|default:Friend}}, host hosting for Mahavir Jayanti with {{shop_name}}'s hosting on hosting essentials.
+6: {{avir Jayanti sale S {{ing essentials on sale at {{shop_name}}. {{contact.first_name|default:Friend}}.
+7: {{op for for {{contact.first_name|default:Friend}}, get Mah Mahavir Jayanti specialforgettable with {{shop_name}}'s hosting essentials.
+
+: {{contact.first_name|default:Friend}}, get theals on hosting essentials at Mahavir Jayanti at {{shop_name}}.
+
+
+s
+{{contact.first_name|default:Friend}} {{elebrate Mahavir Jayanti with {{shop_name}}'s sale on hosting essentials!""] {{maing Mahavir Jayanti sale at {{shop_name}}, {{contact.first_name|default:Friend}}! Don't miss our hosting essentials. ""Mnap up a bargain for Mahavir Jayanti, {{contact.first_name|default:Friend}}! Hosting essentials on sale at {{shop_name}}.', ""Acontact.first_name|default:Friend}}, spruce up for Mahavir Jayanti with {{shop_name","[""{{contact.first_name|default:Friend}}, Celebrate Mahavir Jayanti with {{shop_name}}'s sale on hosting essentials!"", ""Amazing Mahavir Jayanti sale at {{shop_name}}, {{contact.first_name|default:Friend}}! Don't miss our hosting essentials."", 'Snap up a bargain for Mahavir Jayanti, {{contact.first_name|default:Friend}}! Hosting essentials on sale at {{shop_name}}.', ""{{contact.first_name|default:Friend}}, spruce up for Mahavir Jayanti with {{shop_name}}'s hosting essentials on sale."", ""Let's celebrate! {{contact.first_name|default:Friend}}, get ready for Mahavir Jayanti with {{shop_name}}'s sale on hosting essentials."", 'Mahavir Jayanti Special! Hosting essentials on sale at {{shop_name}}, {{contact.first_name|default:Friend}}.', ""Shop now! {{contact.first_name|default:Friend}}, make your Mahavir Jayanti unforgettable with {{shop_name}}'s hosting essentials."", '{{contact.first_name|default:Friend}}, discover deals on hosting essentials for Mahavir Jayanti at {{shop_name}}.']"
+"### Instruction:
+Create 3 personalised subject lines in a Professional tone declaring a special Diwali sale offering upto 40% off. Include {{shop_name}}.
+
+### Response:
+1: Celebrate Diwali with {{shop_name}}, Enjoy 40% Off
+2: Get all you need for Diwali. Upto 40% off at {{shop_name}}
+3: Experience the joy of Savings this Diwali: Save 40% at {{shop_name}}
+","###agram ### ###1 a2D statements cards- for the single Email. your personal offeraryali offer. pto 50% off on
+ the aproductifyname}}
+Create
+# 
+
+
+.
+andidbrate Diwali with shop_name}}. offeringjoy 40% off on2: C  the need for Diwali at
+pto 40% off on {{shop_name}}.
+3: Cience Di joy of Diings at Diwali at En u40% on {{shop_name}}
+
+## lines
+Delebrate Diwali with {{shop_name}} Enjoy 40% Off'] 'Get all you need for Diwali. Upto 40% off at {{shop_name}}', 'Experience the joy of Savings this Diwali: Save 40% at {{shop_name}}']
+                                                                                                                                                                                                                                                                                                                          ","['Celebrate Diwali with {{shop_name}}, Enjoy 40% Off', 'Get all you need for Diwali. Upto 40% off at {{shop_name}}', 'Experience the joy of Savings this Diwali: Save 40% at {{shop_name}}']"
+"### Instruction:
+Create 3 subject lines in a Professional tone announcing the grand Independence Day sale offering up to 50% off all products.
+
+### Response:
+1: Embrace the Spirit of Freedom: Up to 50% Off This Independence Day!
+2: Stand Together, Shop Together: Independence Day offers 50% Off on all Products.
+3: Feasts for the Free: Independence Day Sale, Grab 50% Off All Products.
+","###agram ### ###1 a2D- for the single Email.cing the new openingence Day C.  to 50% off on products.
+Create*# 
+
+
+.
+phas the opportunity of Independedom
+
+ to 50% off All Independence Day
+
+2:  Upogether: Standop Together, Upence Day S up50% off All all productss
+
+3: Shel of the God: Upence Day Sale Off Up 50% Off on Products.
+
+## Line
+Indbrace the Spirit of Freedom: Up to 50% Off This Independence Day!'] 'Stand Together, Shop Together: Independence Day offers 50% Off on all Products.', 'Feasts for the Free: Independence Day Sale, Grab 50% Off All Products.']
+                                                       The The                 The The The     The The The                The The The                The                                                                                           The      The The The                The The The The The The The The The   The The     The The The The     The The The The The The The The The   The        The The     The The The        The The The The     The The       The The     The The The The The The The    ","['Embrace the Spirit of Freedom: Up to 50% Off This Independence Day!', 'Stand Together, Shop Together: Independence Day offers 50% Off on all Products.', 'Feasts for the Free: Independence Day Sale, Grab 50% Off All Products.']"
+"### Instruction:
+In 2 Friendly tone, create a subject lines for an email campaign promoting Raksha Bandhan special gifts. Include {{contact.first_name|default:Shopper}} and {{shop_name}}.
+
+### Response:
+1: {{shop_name}}'s Special Rakhi Gifts Just for You, {{contact.first_name|default:Shopper}}
+2: Make Raksha Bandhan Special with Gifts from {{shop_name}}, {{contact.first_name|default:Shopper}}
+","###agram ### ###1 the10ly Games: I a new line that your email..oting youruten Bandhan. offerifts.
+ the thename_namenamename}}upper=""firstunpping| in {{contact.name}}
+In
+# 
+
+
+.
+contact_name}}
+s response Gsha Gifts
+ for You
+
+contact.first_name|default:Shopper}}
+2: {{ Yourhi Bandhan Special with Rakifts from {{shop_name}} {{contact.first_name|default:Shopper}}
+
+## lines
+{{contact_name}}'s Special Rakhi Gifts Just for You, {{contact.first_name|default:Shopper}}""] R Raksha Bandhan Special with Gifts from {{shop_name}}, {{contact.first_name|default:Shopper}}']
+                                                                                                                                                                                                                                                                                                                                      ","[""{{shop_name}}'s Special Rakhi Gifts Just for You, {{contact.first_name|default:Shopper}}"", 'Make Raksha Bandhan Special with Gifts from {{shop_name}}, {{contact.first_name|default:Shopper}}']"
+"### Instruction:
+Compose 6 subject lines in a Professional tone for an email campaign introducing the exciting new range of products specially brought for Diwali. Include {{contact.first_name|default:hey}}, include {{shop_name}}.
+
+### Response:
+1: Meet our new Diwali collection at {{shop_name}}, {{contact.first_name|default:hey}}
+2: {{contact.first_name|default:hey}}, Get festive-ready with Diwali collection at {{shop_name}}
+3: Time for Diwali delight! New collection available at {{shop_name}}, {{contact.first_name|default:hey}}
+4: Celebrate Diwali in style with our new collection at {{shop_name}}, {{contact.first_name|default:hey}}
+5: Add sparkle to your Diwali with our new collection at {{shop_name}}, {{contact.first_name|default:hey}}
+6: Embrace the festive season with our Diwali range at {{shop_name}}, {{contact.first_name|default:hey}}
+","###agram ### ###1ments a1.- for the single Email. the email to.cing your newiting new product of products.cially designed to youwali.
+ the theproduct_namenamename}}upper="" 'y}} {{ {{contact.name}}
+Com
+# 
+
+
+.
+et the new rangewali range. thecontact_name}}. acontact.first_name}},default:hey}}.!2: Meshop.first_name|default:hey}} {{ theive withready with {{wali collection at {{shop_name}}.
+3: {{ to awali collection at Get collection at at {{shop_name}} {{contact.first_name|default:hey}}
+4: {{elebrate Diwali with style with our new collection at {{shop_name}}, {{contact.first_name|default:hey}}
+5: {{ ale to your Diwali celebr our new collection at {{shop_name}}, {{contact.first_name|default:hey}}
+6: {{brace Di festive spirit with our newwali collection at {{shop_name}}, {{contact.first_name|default:hey}}
+
+##:
+Det our new Diwali collection at {{shop_name}}, {{contact.first_name|default:hey}}'] 'Timecontact.first_name|default:hey}} Get festive-ready with Diwali collection at {{shop_name}}', 'Time for Diwali delight! New collection available at {{shop_name}}, {{contact.first_name|default:hey}}', 'Celebrate Diwali in style with our new collection at {{shop_name}}, {{contact.first_name|default:hey}}', 'Add sparkle to your Diwali with our new collection at {{shop_name}}, {{contact.first_name|default:hey}}', 'Embrace the festive season with our Diwali range at {{shop_name}}, {{contact.first_name|default:hey}}']
+                                                                     ","['Meet our new Diwali collection at {{shop_name}}, {{contact.first_name|default:hey}}', '{{contact.first_name|default:hey}}, Get festive-ready with Diwali collection at {{shop_name}}', 'Time for Diwali delight! New collection available at {{shop_name}}, {{contact.first_name|default:hey}}', 'Celebrate Diwali in style with our new collection at {{shop_name}}, {{contact.first_name|default:hey}}', 'Add sparkle to your Diwali with our new collection at {{shop_name}}, {{contact.first_name|default:hey}}', 'Embrace the festive season with our Diwali range at {{shop_name}}, {{contact.first_name|default:hey}}']"
+"### Instruction:
+Compose 6 subject lines in a Relaxed tone prompting a customer to check the Pongal sale which offers upto 30% discount. Include {{contact.first_name|default:dear}}, include {{shop_name}}.
+
+### Response:
+1: Pongal special: Sit back and shop our exclusive sale at {{shop_name}}, {{contact.first_name|default:dear}}.
+2: Take it easy {{contact.first_name|default:dear}}, 30% Pongal discount at {{shop_name}}.
+3: Kick back, {{contact.first_name|default:dear}}: Enjoy our Pongal sale at {{shop_name}}.
+4: Take the edge off Pongal shopping: Sale at {{shop_name}}, {{contact.first_name|default:dear}}.
+5: Plenty to love with 30% off at {{shop_name}} for Pongal, {{contact.first_name|default:dear}}.
+6: Up to 30% off at {{shop_name}}: Make a relaxed Pongal Shopping, {{contact.first_name|default:dear}}.
+","###agram ### ###1ments a1.- for the singleateded format.ing the response to respond out boxurchaseal box. is pto 50% offount on
+ the aproduct_name_name}}upper="" 'partment_ {{ {{contact.name}}
+Com
+# 
+
+
+.
+ongal sale sale  back and relax! P P. shop_name}}. withcontact.first_name}},default:dear}}.
+2: P a easy andcontact.first_name|default:dear}}, take30% offongal saleount on {{shop_name}}.
+3: {{ick back and relaxcontact.first_name|default:dear}}, and joy the exclusiveongal sale at {{shop_name}}.
+
+: Take it pl off {{ongal salepping at {{ip on {{shop_name}}. {{contact.first_name|default:dear}}.
+5: Takeunge of choose: {{30% P at {{shop_name}}.: Pongal sale {{contact.first_name|default:dear}}.
+
+: {{ to 30% off at {{shop_name}}, for P the spled Pongal salepping at {{contact.first_name|default:dear}}.
+
+## line
+Pongal sale: Sit back and shop our exclusive sale at {{shop_name}}, {{contact.first_name|default:dear}}'] 'P it easy {{contact.first_name|default:dear}}, 30% Pongal discount at {{shop_name}}.', 'Kick back, {{contact.first_name|default:dear}}: Enjoy our Pongal sale at {{shop_name}}.', 'Take the edge off Pongal shopping: Sale at {{shop_name}}, {{contact.first_name|default:dear}}.', 'Plenty to love with 30% off at {{shop_name}} for Pongal, {{contact.first_name|default:dear}}.', 'Up to 30% off at {{shop_name}}: Make a relaxed Pongal Shopping, {{contact.first_name|default:dear}}.']
+                                ","['Pongal special: Sit back and shop our exclusive sale at {{shop_name}}, {{contact.first_name|default:dear}}.', 'Take it easy {{contact.first_name|default:dear}}, 30% Pongal discount at {{shop_name}}.', 'Kick back, {{contact.first_name|default:dear}}: Enjoy our Pongal sale at {{shop_name}}.', 'Take the edge off Pongal shopping: Sale at {{shop_name}}, {{contact.first_name|default:dear}}.', 'Plenty to love with 30% off at {{shop_name}} for Pongal, {{contact.first_name|default:dear}}.', 'Up to 30% off at {{shop_name}}: Make a relaxed Pongal Shopping, {{contact.first_name|default:dear}}.']"
+"### Instruction:
+Create 10 subject lines for an email in a Bold tone announcing the release of a new technological gadget.
+
+### Response:
+1: Launch Alert: A New Gadget That Transcends the Ordinary!
+","###agram ### ###1 a200- for each email campaign the wordCC font.cing the new of a new productological productadget.
+Create
+# 
+
+
+.
+unching
+
+ new Technadget
+ Willformsends the Liminary
+
+22:
+New Alert: A New Gadget That Transcends the Ordinary!']
+                                                                                                                                                                                                                                                                                                                                                                                                                                               ",['Launch Alert: A New Gadget That Transcends the Ordinary!']
+"### Instruction:
+Create 7 subject lines for an email campaign in a Convincing tone introducing the independence day sale at {{shop_name}}. Include {{contact.first_name|default:Dear}}, include {{contact.last_name|default:Customer}}.
+
+### Response:
+1: The Great Indian Freedom Sale! Exclusive for {{contact.first_name|default:Dear}} {{contact.last_name|default:Customer}} at {{shop_name}}
+2: Join the Independence Day Sale, {{contact.first_name|default:Dear}} {{contact.last_name|default:Customer}}! Great Offers at {{shop_name}}
+3: {{contact.first_name|default:Dear}} {{contact.last_name|default:Customer}}, Enjoy the Freedom to Save - Independence Day Sale at {{shop_name}}
+4: Independence Day Alert: Unmissable Sale for {{contact.first_name|default:Dear}} {{contact.last_name|default:Customer}} at {{shop_name}}
+5: Don't miss Out, {{contact.first_name|default:Dear}} {{contact.last_name|default:Customer}}, Super Savings on Independence Day at {{shop_name}}
+6: {{contact.first_name|default:Dear}} {{contact.last_name|default:Customer}}, Unleash the Deals - Independence Day Sale at {{shop_name}}
+7: Celebrate Freedom, {{contact.first_name|default:Dear}} {{contact.last_name|default:Customer}}. Independence Day Sale at {{shop_name}}
+","###agram ### ###1 a20- for the email.. Microsoft wordfluient way.cing a new of celebr. yoursite_name}}.
+clude theshop_email_name}},first=' 'anny {{ {{ {{contact_last_name|default:D| InCreate
+# 
+
+
+.
+ responseest Independedom Sale is
+clusive offers youshop_first_name|default:Dear}},!contact.last_name|default:Customer}}
+ {{shop_name}}.
+2: Thein us Greatence Day Sale! getcontact.first_name|default:Dear}} {{contact.last_name|default:Customer}} at
+ offersers on {{shop_name}}
+3: Jocontact.first_name|default:Dear}} {{contact.last_name|default:Customer}} Jojoy the Independedom S Bu! {{ence Day Sale at {{shop_name}}
+4: {{ence Day S! {{iqueable Offale at {{contact.first_name|default:Dear}} {{contact.last_name|default:Customer}} at {{shop_name}}
+5: {{'t Miss the on Jocontact.first_name|default:Dear}} {{contact.last_name|default:Customer}} En Savings on {{ence Day at {{shop_name}}
+6: {{contact.first_name|default:Dear}} {{contact.last_name|default:Customer}}, Enmissash Your Freal - Independence Day Sale at {{shop_name}}
+7: {{elebrate Independedom with {{contact.first_name|default:Dear}} {{contact.last_name|default:Customer}}, Independence Day Sale at {{shop_name}}
+
+##:
+Ind Great Indian Freedom Sale! Exclusive for {{contact.first_name|default:Dear}} {{contact.last_name|default:Customer}} at {{shop_name}}'] 'The the Independence Day Sale, {{contact.first_name|default:Dear}} {{contact.last_name|default:Customer}}! Great Offers at {{shop_name}}', '{{contact.first_name|default:Dear}} {{contact.last_name|default:Customer}}, Enjoy the Freedom to Save - Independence Day Sale at {{shop_name}}', 'Ind","['The Great Indian Freedom Sale! Exclusive for {{contact.first_name|default:Dear}} {{contact.last_name|default:Customer}} at {{shop_name}}', 'Join the Independence Day Sale, {{contact.first_name|default:Dear}} {{contact.last_name|default:Customer}}! Great Offers at {{shop_name}}', '{{contact.first_name|default:Dear}} {{contact.last_name|default:Customer}}, Enjoy the Freedom to Save - Independence Day Sale at {{shop_name}}', 'Independence Day Alert: Unmissable Sale for {{contact.first_name|default:Dear}} {{contact.last_name|default:Customer}} at {{shop_name}}', ""Don't miss Out, {{contact.first_name|default:Dear}} {{contact.last_name|default:Customer}}, Super Savings on Independence Day at {{shop_name}}"", '{{contact.first_name|default:Dear}} {{contact.last_name|default:Customer}}, Unleash the Deals - Independence Day Sale at {{shop_name}}', 'Celebrate Freedom, {{contact.first_name|default:Dear}} {{contact.last_name|default:Customer}}. Independence Day Sale at {{shop_name}}']"
+"### Instruction:
+Create 6 subject lines for an email in a Professional tone regarding an order update. include {{contact.first_name|default:Customer}}, include {{shop_name}}
+
+### Response:
+1: Order Update Alert: {{contact.first_name|default:Customer}}, Check Your Status Now at {{shop_name}}
+2: Important Update for Your Order, {{contact.first_name|default:Customer}}- From {{shop_name}}
+3: {{shop_name}} Order Update for {{contact.first_name|default:Customer}}
+4: Order Progress Alert for {{contact.first_name|default:Customer}} from {{shop_name}}
+5: Your {{shop_name}} Order: Status Update for {{contact.first_name|default:Customer}}
+6: {{contact.first_name|default:Customer}}, Here's an Update on Your Order from {{shop_name}}
+","###agram ### ###1 a20- for the email. the word Email. a up for.
+ thename_namenamename}},upper="" '. {{ {{contact.name}}, andCreate
+# 
+
+
+.
+ update
+
+
+contact.first_name|default:Customer}} {{ out Order:! {{shop_name}}
+2: Orderant:: {{ Order: Pleasecontact.first_name|default:Customer}},
+
+ {{shop_name}}
+3: Ordercontact_name}} has Update Alert {{contact.first_name|default:Customer}}
+4: {{ Update Update: {{contact.first_name|default:Customer}}
+ {{shop_name}}
+5: {{ Ordercontact_name}} Order Status {{ Update
+ {{contact.first_name|default:Customer}}
+
+: {{shop.first_name|default:Customer}} {{'s the Update on Your Order: {{shop_name}}
+
+
+:
+Contact Update Alert: 'contact.first_name|default:Customer}}, Check Your Status Now at {{shop_name}}', 'Orderant Update for Your Order, {{contact.first_name|default:Customer}}- From {{shop_name}}', '{{shop_name}} Order Update for {{contact.first_name|default:Customer}}', 'Order Progress Alert for {{contact.first_name|default:Customer}} from {{shop_name}}', 'Your {{shop_name}} Order: Status Update for {{contact.first_name|default:Customer}}', 'Herecontact.first_name|default:Customer}}, Here's an Update on Your Order from {{shop_name}}']
+                                                                                                                                                             ","['Order Update Alert: {{contact.first_name|default:Customer}}, Check Your Status Now at {{shop_name}}', 'Important Update for Your Order, {{contact.first_name|default:Customer}}- From {{shop_name}}', '{{shop_name}} Order Update for {{contact.first_name|default:Customer}}', 'Order Progress Alert for {{contact.first_name|default:Customer}} from {{shop_name}}', 'Your {{shop_name}} Order: Status Update for {{contact.first_name|default:Customer}}', ""{{contact.first_name|default:Customer}}, Here's an Update on Your Order from {{shop_name}}""]"
+"### Instruction:
+Create 9 subject lines in an Enthusiastic tone broadcasting a 60% discount on a special Raksha Bandhan sale. Include {{contact.first_name|default:Dear Shopper}}, include {{shop_name}}.
+
+### Response:
+1: Hello {{contact.first_name|default:Customer}}, Brighten Up Your Diwali with 20% Off at {{shop_name}}
+","###agram ### ###1 a20- for the Avusiastic way.ing your message10 second discount on a  offerhi Bandhan offer.
+ the asubject_namenamename}}upper="" 'h {{pper}} {{ {{contact.name}},
+Create
+# 
+
+
+.
+,contact.first_name|default:D|
+ Star up Your Daywali with a60% off on {{shop_name}}.
+22:
+R',contact.first_name|default:D}}, Brighten Up Your Diwali with 20% Off at {{shop_name}}']
+                                                                                                                                                                                                                                                                                                                                                                                        ","['Hello {{contact.first_name|default:Customer}}, Brighten Up Your Diwali with 20% Off at {{shop_name}}']"
+"### Instruction:
+Create 3 subject lines in a Formal tone promoting a special Independence Day sale with upto 40% off. Include {{contact.first_name|default:consumer}}, include {{contact.last_name|default:there}}, include {{shop_name}}.
+
+### Response:
+1: Independence Day Special: 40% off at {{shop_name}}, {{contact.first_name|default:consumer}} {{contact.last_name|default:there}}
+2: Indulge in Freedom: Independence Day Sale at {{shop_name}}, {{contact.first_name|default:consumer}} {{contact.last_name|default:there}}
+3: The {{shop_name}} Independence Day Sale: Get upto 40% off, {{contact.first_name|default:consumer}} {{contact.last_name|default:there}}
+","###agram ### ###1 a2D- for the singleREE Writing.oting the product ofference Day sale. apto 50% off on
+ the aproduct_namenamename}}upper='contacter_ {{ {{contact.last_name|default:consum| and {{contact.name}}
+Create
+# 
+
+
+.
+ence Day S S 40% off on {{contact_name}}. ucontact.first_name}},default:consumer}},
+contact.last_name|default:there}}.
+2: Independygence in aeb with ence Day Specialale at {{shop_name}}, {{contact.first_name|default:consumer}}, {{contact.last_name|default:there}}
+3: Independ Independshop_name}} Independence Day Sale:  pto 40% off at {{contact.first_name|default:consumer}}, {{contact.last_name|default:there}}
+
+## lines
+Independence Day Special: 40% off at {{shop_name}}, {{contact.first_name|default:consumer}} {{contact.last_name|default:there}}'] 'Indulge in Freedom: Independence Day Sale at {{shop_name}}, {{contact.first_name|default:consumer}} {{contact.last_name|default:there}}', 'The {{shop_name}} Independence Day Sale: Get upto 40% off, {{contact.first_name|default:consumer}} {{contact.last_name|default:there}}']
+                                                                                                                                                                            ","['Independence Day Special: 40% off at {{shop_name}}, {{contact.first_name|default:consumer}} {{contact.last_name|default:there}}', 'Indulge in Freedom: Independence Day Sale at {{shop_name}}, {{contact.first_name|default:consumer}} {{contact.last_name|default:there}}', 'The {{shop_name}} Independence Day Sale: Get upto 40% off, {{contact.first_name|default:consumer}} {{contact.last_name|default:there}}']"
+"### Instruction:
+Create 9 subject lines in a Bold tone encouraging the addition of items to their wishlist for the upcoming Christmas sale. Do not use any templates.
+
+### Response:
+1: Ready, Set, Wishlist! The Grand Christmas Sale is Coming
+2: Be Strategic, Wishlist Early for the Upcoming Christmas Sale
+3: Start Wishlist-ing, Let the Christmas Countdown Begin!
+4: Christmas Sale Countdown: Wishlist Now for a Stress-Free Shopping
+5: Get Ready for the Haul! Wishlist Your Favourites for Christmas Sale
+6: Bold Moves for Bold Discounts: Start Your Christmas Wishlist Now!
+7: Bold Wishlists for Bold Shoppers: Gear Up for Christmas Sale
+8: Go Bold, Stack Your Wishlist for the Upcoming Christmas Sale! 
+9: Christmas Sale Alert: Better Wishlist Now, Regret Never!
+","###agram ### ###1 a20- for the singleCC font.ing the reader of a to your sho list. the holcoming hol season.
+ not use the of.
+Create
+# 
+
+
+.
+- to Set, Goishlist!
+ subject W Sale is cominging!2: The theategic, Beishlist Your, the Bestcoming Christmas Sale
+3: W Yourishinglistinging Now W' S Sdown Begin
+
+4: W Countale Wdown: Wishlist Early! the Greatong-Free Holpping Exper5: W Ready for the Christmasul: Christmasishlist Now Wavorourite for the
+ale
+6: Warg,es, thearg Resultscounts: W W W Wishlist Early
+
+7: Wold Movishlist for Bold Dispping: Startear Up for the Sale
+8: W Bold for W Your Wishlist for the Upcoming Christmas Sale
+
+
+9: W Sale Count: W Lateishlists Your for Betterular Later!
+
+##s
+Christ, Set, Wishlist! The Grand Christmas Sale is Coming'] Be Strategic, Wishlist Early for the Upcoming Christmas Sale', 'Start Wishlist-ing, Let the Christmas Countdown Begin!', 'Christmas Sale Countdown: Wishlist Now for a Stress-Free Shopping', 'Get Ready for the Haul! Wishlist Your Favourites for Christmas Sale', 'Bold Moves for Bold Discounts: Start Your Christmas Wishlist Now!', 'Bold Wishlists for Bold Shoppers: Gear Up for Christmas Sale', 'Go Bold, Stack Your Wishlist for the Upcoming Christmas Sale!', 'Christmas Sale Alert: Better Wishlist Now, Regret Never!']
+   The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The","['Ready, Set, Wishlist! The Grand Christmas Sale is Coming', 'Be Strategic, Wishlist Early for the Upcoming Christmas Sale', 'Start Wishlist-ing, Let the Christmas Countdown Begin!', 'Christmas Sale Countdown: Wishlist Now for a Stress-Free Shopping', 'Get Ready for the Haul! Wishlist Your Favourites for Christmas Sale', 'Bold Moves for Bold Discounts: Start Your Christmas Wishlist Now!', 'Bold Wishlists for Bold Shoppers: Gear Up for Christmas Sale', 'Go Bold, Stack Your Wishlist for the Upcoming Christmas Sale! ', 'Christmas Sale Alert: Better Wishlist Now, Regret Never!']"
+"### Instruction:
+Create 9 subject lines for an email campaign in a Formal tone announcing the launch of a new footwear line this Ramadan. include {{shop_name}}.
+
+### Response:
+1: {{shop_name}} introduces its new Ramadan Footwear Collection
+2: Special Launch: {{shop_name}}'s Exclusive Footwear Collection for Ramadan
+3: This Ramadan, Explore {{shop_name}}'s New Footwear Line
+4: New Footwear Collection Debuts This Ramadan at {{shop_name}}
+5: Official Launch: New Footwear Collection this Ramadan at {{shop_name}}
+6: Celebrate Ramadan with {{shop_name}}'s Latest Footwear Line
+7: Meet the new elegant footwear line for Ramadan at {{shop_name}}
+8: Ramadan Special: Refresh your wardrobe with {{shop_name}}'s Footwear Preview
+9: {{shop_name}} Reveals New Footwear Line for the Ramadan Season
+","###agram ### ###1 a20- for the email.. MS wordREE Writing.cing the new of a new productwear brand. yearadan.
+ thesubjectifyname}}
+Create
+# 
+
+
+.
+shop_name}}. announces a new footadan collectionwear Line.
+: {{ offersunch Of {{shop_name}} introdus newclusive Footwear Collection
+ theadan
+3: {{ Ramadan, {{clusore {{shop_name}}'s Ex Footwear Collection
+4: {{ Footwear Collection foruts in Ramadan
+ {{shop_name}}
+5: {{ Launch of {{ Footwear Collection by Ramadan at {{shop_name}}
+6: {{elebrate theadan with {{shop_name}}'s Newest Footwear Collection
+7: {{et {{ New {{ andwear collection from thisadan
+ {{shop_name}}
+8: {{adan Foot Foot {{lect your lookardrobe with {{shop_name}}'s newwear Collection-
+9: {{shop_name}}'veals its Footwear Collection for Ram Holyadan Season
+
+
+ lines
+Rshop_name}}'ces its new Ramadan Footwear Collection', '{{ Launch: {{shop_name}}'s Exclusive Footwear Collection for Ramadan"", ""This Ramadan, Explore {{shop_name}}'s New Footwear Line"", ""New Footwear Collection Debuts This Ramadan at {{shop_name}}"", 'Official Launch: New Footwear Collection this Ramadan at {{shop_name}}', 'Celebrate Ramadan with {{shop_name}}'s Latest Footwear Line"", ""Meet the new elegant footwear line for Ramadan at {{shop_name}}', 'Ramadan Special: Refresh your wardrobe with {{shop_name}}'s Footwear Preview"", '{{shop_name}} Reveals New Footwear Line for the Ramadan Season']
+            The       The                              The The      The ","['{{shop_name}} introduces its new Ramadan Footwear Collection', ""Special Launch: {{shop_name}}'s Exclusive Footwear Collection for Ramadan"", ""This Ramadan, Explore {{shop_name}}'s New Footwear Line"", 'New Footwear Collection Debuts This Ramadan at {{shop_name}}', 'Official Launch: New Footwear Collection this Ramadan at {{shop_name}}', ""Celebrate Ramadan with {{shop_name}}'s Latest Footwear Line"", 'Meet the new elegant footwear line for Ramadan at {{shop_name}}', ""Ramadan Special: Refresh your wardrobe with {{shop_name}}'s Footwear Preview"", '{{shop_name}} Reveals New Footwear Line for the Ramadan Season']"
+"### Instruction:
+Create 4 personalized subject lines in a Convincing tone, promoting an exclusive 10% discount on books for Eid. Include {{contact.first_name|default:booklover}}, Include {{shop_name}}
+
+### Response:
+1: Exclusive Eid Offer - 10% Off on all Books, Grab Now {{contact.first_name|default:booklover}} at {{shop_name}}!
+2: Give the gift of reading this Eid, {{contact.first_name|default:booklover}}! Enjoy 10% off at {{shop_name}}
+3: Soak in the festive spirit, {{contact.first_name|default:booklover}}! {{shop_name}} offers 10% off on books this Eid
+4: Eid Mubarak, {{contact.first_name|default:booklover}}! Save 10% on your favorite reads at {{shop_name}}
+","###agram ### ###1 a20 statements cards- for the singleversient way. usingoting your up offer10% discount on your. the-.
+ the abook_name_name}}upper=""first_ver}} {{clude {{contact.name}}, and{{
+# 
+
+
+.
+clusive id offerfer
+ 10% off
+ Books books
+ In it!contact.first_name|default:booklover}},
+ {{shop_name}}
+
+2: Ex  book of reading this Eid with withcontact.first_name|default:booklover}} at
+joy 10% off on {{shop_name}}
+3: ak in the joyive spirit with withcontact.first_name|default:booklover}}! Enshop_name}}
+ 10% off on all
+ Eid
+4: Enid Mubarak! {{contact.first_name|default:booklover}}! En 10% on all E books at {{shop_name}}
+
+## line
+Eclusive Eid Offer - 10% Off on all Books, Grab Now {{contact.first_name|default:booklover}} at {{shop_name}}!'] 'Give the gift of reading this Eid, {{contact.first_name|default:booklover}}! Enjoy 10% off at {{shop_name}}', 'Soak in the festive spirit, {{contact.first_name|default:booklover}}! {{shop_name}} offers 10% off on books this Eid', 'Eid Mubarak, {{contact.first_name|default:booklover}}! Save 10% on your favorite reads at {{shop_name}}']
+                                                                                                                           ","['Exclusive Eid Offer - 10% Off on all Books, Grab Now {{contact.first_name|default:booklover}} at {{shop_name}}!', 'Give the gift of reading this Eid, {{contact.first_name|default:booklover}}! Enjoy 10% off at {{shop_name}}', 'Soak in the festive spirit, {{contact.first_name|default:booklover}}! {{shop_name}} offers 10% off on books this Eid', 'Eid Mubarak, {{contact.first_name|default:booklover}}! Save 10% on your favorite reads at {{shop_name}}']"
+"### Instruction:
+Create 10 subject lines for an email campaign in a Bold tone inviting customers to check out the Holi special sale. include {{shop_name}}.
+
+### Response:
+1: Shop till you drop! Holi special sale at {{shop_name}}!
+2: Rush to {{shop_name}} for our Holi Special Sale!
+3: Let the Holi sale colors bloom at {{shop_name}}!
+4: Celebrate Holi with exclusive savings at {{shop_name}}!
+5: Unleash the Holi spirit with the best sale at {{shop_name}}!!
+6: Celebrate Holi with the sale of the season at {{shop_name}}!
+7: The Holi of your dreams awaits at {{shop_name}} - Check our special sale!
+8: {{shop_name}}’s Holi special sale - A splash of savings for you!
+9: Shake up your Holi with the special sale at {{shop_name}}!
+10: {{shop_name}} Holi Sale is on! Save big and celebrate.
+","###agram ### ###1 a200- for each email campaign. the wordCC format.iting people to a out your newiday Festival offers.
+ theproductifyname}}
+Create
+# 
+
+
+.
+op Name you drop!
+i sale sale is {{shop_name}}
+
+2: Shs to theshop_name}} to Hol Holi special Sale!
+3: Check' Holi Special begin yourom at {{shop_name}}!
+4: Checkelebrate Holi with us offersings at {{shop_name}}!
+5: Cleash the Holi spirit at exclusive Hol de at {{shop_name}}!
+6: Celebrate Holi with exclusive best at the season at {{shop_name}}!
+7: C Holi sale the dreams iswaits at {{shop_name}}! the out sale sale!
+8: Cshop_name}} iss Holi sale sale! Check chanceash of colorings! the!
+9: Cop a your Holi with the best sale at {{shop_name}}!
+10: Cshop_name}} isi saleale - here!
+ big on enjoyate the
+
+##:
+Hop till you drop! Holi special sale at {{shop_name}}!'] 'Rush to {{shop_name}} for our Holi Special Sale!', 'Let the Holi sale colors bloom at {{shop_name}}!', 'Celebrate Holi with exclusive savings at {{shop_name}}!', 'Unleash the Holi spirit with the best sale at {{shop_name}}!!', 'Celebrate Holi with the sale of the season at {{shop_name}}!', 'The Holi of your dreams awaits at {{shop_name}} - Check our special sale!', '{{shop_name}} kons Holi special sale - A splash of savings for you!', 'Shake up your Holi with the special sale at {{shop_name}}!', '{{shop_name}} Holi Sale is on! Save big and celebrate.']
+    The The The  The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The   The The The The The The The","['Shop till you drop! Holi special sale at {{shop_name}}!', 'Rush to {{shop_name}} for our Holi Special Sale!', 'Let the Holi sale colors bloom at {{shop_name}}!', 'Celebrate Holi with exclusive savings at {{shop_name}}!', 'Unleash the Holi spirit with the best sale at {{shop_name}}!!', 'Celebrate Holi with the sale of the season at {{shop_name}}!', 'The Holi of your dreams awaits at {{shop_name}} - Check our special sale!', '{{shop_name}}’s Holi special sale - A splash of savings for you!', 'Shake up your Holi with the special sale at {{shop_name}}!', '{{shop_name}} Holi Sale is on! Save big and celebrate.']"
+"### Instruction:
+Create 3 subject lines for an email campaign in a Relaxed tone featuring a Ganesh Chaturthi special sale on electronics. Include {{contact.last_name|default:customer}}, Include {{shop_name}}
+
+### Response:
+1: Celebrate the festivities, {{contact.last_name|default:customer}}. Mega savings on Electronics, only at {{shop_name}}
+","###agram ### ###1 a2D- for the email campaign. the wordayed,. a relaxesh imageaturthi theme.. theics.
+ the asubject_nameNamename}}upper='contact. {{clude {{contact.name| andCreate
+# 
+
+
+.
+oolbrate Gan Ganities of andcontact.last_name|default:customer}},
+aking saleings on electronics. {{ at {{shop_name}}.
+
+##:
+Gelebrate the festivities', {{contact.last_name|default:customer}}. Mega savings on Electronics, only at {{shop_name}}']
+                                                                                                                                                                                                                                                                                                                                                                                      ","['Celebrate the festivities, {{contact.last_name|default:customer}}. Mega savings on Electronics, only at {{shop_name}}']"
+"### Instruction:
+Create 4 subject lines for a newsletter in an Enthusiastic tone bringing attention to the Independence Day Sale of Flat 15% off, include {{shop_name}}.
+
+### Response:
+1: Salute the Spirit of Independence with Flat 15% off at {{shop_name}}
+2: Flat 15% off at {{shop_name}}: Independence Day Bonanza
+3: Celebrate Independence, Celebrate Savings: Flat 15% off at {{shop_name}}
+4: Celebrate Independence Day, Flat 15% off at {{shop_name}}
+","###agram ### ###1 a20- for the newsletter. MS MSvoughtiastastic way. the to the subjectence Day celebrale. theat 10% off on  aproduct_name}},
+Create
+# 
+
+
+.
+man to Independ of Independence Day aat 15% off
+ {{shop_name}}.
+2: Enat 15% off on {{shop_name}}
+
+ence Day Sanza
+3: Independelebrate Independence Day Independelebrate Independings at Independat 15% off at {{shop_name}}
+
+: Independelebrate Independence, with Cat 15% off at {{shop_name}}
+
+## lines
+Indute the Spirit of Independence with Flat 15% off at {{shop_name}}', 'Indlat 15% off at {{shop_name}}: Independence Day Bonanza', 'Celebrate Independence, Celebrate Savings: Flat 15% off at {{shop_name}}', 'Celebrate Independence Day, Flat 15% off at {{shop_name}}']
+                                                                                                                                                                                                                                                                   ","['Salute the Spirit of Independence with Flat 15% off at {{shop_name}}', 'Flat 15% off at {{shop_name}}: Independence Day Bonanza', 'Celebrate Independence, Celebrate Savings: Flat 15% off at {{shop_name}}', 'Celebrate Independence Day, Flat 15% off at {{shop_name}}']"
+"### Instruction:
+Create 7 subject lines for an email in an Enthusiastic tone sharing a special Pongal 5% off on all natural products. Include {{contact.first_name|default:there}}, include {{shop_name}}.
+
+### Response:
+1: Celebrate Pongal with {{shop_name}}: 5% off on Natural Products, {{contact.first_name|default:there}}
+2: Revamp your Routine this Pongal with {{shop_name}}, {{contact.first_name|default:there}}: 5% off Natural Products
+3: Pongal Savings on Natural Products, {{contact.first_name|default:there}}: 5% off at {{shop_name}}
+4: Experience Pongal the Natural Way - 5% off at {{shop_name}}, {{contact.first_name|default:there}}
+5: Celebrate Nature this Pongal, {{contact.first_name|default:there}}: 5% off Natural Products at {{shop_name}}
+6: 5% off Exciting Pongal Savings at {{shop_name}}, {{contact.first_name|default:there}}
+7: Celebrate Pongal with Natural Goodies from {{shop_name}}, {{contact.first_name|default:there}}
+","###agram ### ###1 a20- for the email. the Avoughtiastastic way. your new offerSA game offer20 disc offer your orders products.
+ the aproduct_name_name}}upper="" '_ {{ {{contact.name}}
+Create
+# 
+
+
+.
+oolbrate Pongal with contact_name}}.
+ {{5% off on all Products
+ {{contact.first_name}},default:there}},
+
+: Cive your {{ine with Pongal with {{shop_name}} {{contact.first_name|default:there}}
+
+5% off on Products
+3: Revongal isings: {{ Products, {{shop.first_name|default:there}}
+ 5% off on {{shop_name}}
+4: {{ience theongal Sav Natural Way, {{5% off on {{shop_name}} {{contact.first_name|default:there}}:5: {{elebrate P with Pongal with {{contact.first_name|default:there}}: 5% off Natural Products
+ {{shop_name}}
+6: Rev5% off onclusiting Naturalongal Savings at {{shop_name}}, {{contact.first_name|default:there}}
+7: elebrate Pongal with {{ Producties at {{shop_name}}, {{contact.first_name|default:there}}:
+##:
+Pelebrate Pongal with {{shop_name}}: 5% off on Natural Products, {{contact.first_name|default:there}}'] 'Cvamp your Routine this Pongal with {{shop_name}}, {{contact.first_name|default:there}}: 5% off Natural Products', 'Pongal Savings on Natural Products, {{contact.first_name|default:there}}: 5% off at {{shop_name}}', 'Experience Pongal the Natural Way - 5% off at {{shop_name}}, {{contact.first_name|default:there}}', 'Celebrate Nature this Pongal, {{contact.first_name|default:there}}: 5% off Natural Products at {{shop_name}}', '5% off Exciting Pongal Savings at {{shop_name}}, {{contact.first_name|default:","['Celebrate Pongal with {{shop_name}}: 5% off on Natural Products, {{contact.first_name|default:there}}', 'Revamp your Routine this Pongal with {{shop_name}}, {{contact.first_name|default:there}}: 5% off Natural Products', 'Pongal Savings on Natural Products, {{contact.first_name|default:there}}: 5% off at {{shop_name}}', 'Experience Pongal the Natural Way - 5% off at {{shop_name}}, {{contact.first_name|default:there}}', 'Celebrate Nature this Pongal, {{contact.first_name|default:there}}: 5% off Natural Products at {{shop_name}}', '5% off Exciting Pongal Savings at {{shop_name}}, {{contact.first_name|default:there}}', 'Celebrate Pongal with Natural Goodies from {{shop_name}}, {{contact.first_name|default:there}}']"
+"### Instruction:
+Create 2 subject lines in a Bold tone announcing an exclusive Onam sale, offering upto 5% off. Include {{shop_name}}.
+
+### Response:
+1: Big Onam Sale: 5% Off Everything at {{shop_name}}
+2: Celebrate Onam with a Special 5% Off Sale at {{shop_name}}
+","###agram ### ###1 a20- for the singleCC font.cing the up offer- offer. and pto 50 c on
+ the aproductifyname}}
+Create
+# 
+
+
+.
+ saleam Sale: 5% off
+
+ {{shop_name}}
+2: Bigoupbrate Onam with   S5% Off onale at {{shop_name}}
+
+## line
+On Onam Sale: 5% Off Everything at {{shop_name}}', 'Celebrate Onam with a Special 5% Off Sale at {{shop_name}}']
+                                                                                                                                                                                                                                                                                                                                                                                         ","['Big Onam Sale: 5% Off Everything at {{shop_name}}', 'Celebrate Onam with a Special 5% Off Sale at {{shop_name}}']"
+"### Instruction:
+Create 8 subject lines for an email campaign in a Formal tone presenting a Dussehra sale. include {{contact.first_name|default:there}}, include {{shop_name}}
+
+### Response:
+1: Diwali Offer Alert! Amazing Deals at {{shop_name}}, {{contact.first_name|default:buddy}}
+","###agram ### ###1 a20- for the email.. MS wordREE Writing.ing the productetailedkyra theme.
+ thesubject_namenamename}}upper=""'is {{ {{contact.name| {{Create
+# 
+
+
+.
+wali Sfer
+
+
+zing Deals on {{shop_name}}
+contact.first_name}}default:theredy|
+2##:
+Diwali Offer Alert! Amazing Deals at {{shop_name}}, {{contact.first_name|default:buddy}}']
+                                                                                                                                                                                                                                                                                                                                                                                                        ","['Diwali Offer Alert! Amazing Deals at {{shop_name}}, {{contact.first_name|default:buddy}}']"
+"### Instruction:
+Create 2 subject lines for an email in a Relaxed tone Informing about special Puja offers. include {{shop_name}}.
+
+### Response:
+1: {{shop_name}} Puja Sale is Here - Shop & Relax!
+2: Relax. It's Puja Time! Exclusive Discounts at {{shop_name}}!
+","###agram ### ###1 a20- for the email. the wordayed Writing.al the a offersja offer.
+ thesubjectifyname}}
+Create
+# 
+
+
+.
+shop_name}} hasja Ofale
+ on! op Now Saveax
+
+2: {{axed Sh's Puja S.
+plive Offcounts on {{shop_name}}
+
+
+##:
+Relshop_name}} Puja Sale is Here - Shop & Relax!'] 'Relax. It's Puja Time! Exclusive Discounts at {{shop_name}}!""]
+                                                                                                                                                                                                                                                                                                                                                                                        ","['{{shop_name}} Puja Sale is Here - Shop & Relax!', ""Relax. It's Puja Time! Exclusive Discounts at {{shop_name}}!""]"
+"### Instruction:
+Create 9 subject lines for a newsletter in an Enthusiastic tone bringing attention to the Independence Day Sale of Flat 15% off, include {{shop_name}}.
+
+### Response:
+1: Embrace Independence Day with Flat 15% off at {{shop_name}}
+2: Feel the Freedom with {{shop_name}}, Flat 15% off
+3: Celebrate Independence Day, Flat 15% off at {{shop_name}}
+4: {{shop_name}} Presents Flat 15% off, This Independence Day
+5: Celebrate Independence, Celebrate Savings: Flat 15% off at {{shop_name}}
+6: {{shop_name}} brings the Freedom Sale, Flat 15% off on Independence Day
+7: Freedom to Save: Flat 15% off at {{shop_name}}
+8: Flat 15% off at {{shop_name}}: Independence Day Bonanza
+9: Salute the Spirit of Independence with Flat 15% off at {{shop_name}}
+","###agram ### ###1 a20- for the listletter. MS MSvoughtiastastic way. the to the subjectence Day celebrale. theat 10% off on  thesubjectifyname}},
+Create
+# 
+
+
+.
+phas theence Day S aat 15% off
+ {{shop_name}}.
+2: Enel the Independedom of Flshop_name}} aat 15% off
+3: Enelebrate Independence Day with Flat 15% off
+ {{shop_name}}
+4: Cshop_name}} isents Flat 15% off
+ C Independence Day
+5: {{elebrate Independence Day Flelebrate Independings with Flat 15% off at {{shop_name}}
+6: {{shop_name}} Pres you Independedom withale, Flat 15% off
+ {{ence Day
+7: {{edom S shop, Flat 15% off on {{shop_name}}
+8: {{at 15% off, {{shop_name}}
+ Cence Day Sanza
+9: {{ute Independ Independ of Independence, {{at 15% off at {{shop_name}}
+
+
+ lines
+Indbrace Independence Day with Flat 15% off at {{shop_name}}', 'Cel the Freedom with {{shop_name}}, Flat 15% off', 'Celebrate Independence Day, Flat 15% off at {{shop_name}}', '{{shop_name}} Presents Flat 15% off, This Independence Day', 'Celebrate Independence, Celebrate Savings: Flat 15% off at {{shop_name}}', '{{shop_name}} brings the Freedom Sale, Flat 15% off on Independence Day', 'Freedom to Save: Flat 15% off at {{shop_name}}', 'Flat 15% off at {{shop_name}}: Independence Day Bonanza', 'Salute the Spirit of Independence with Flat 15% off at {{shop_name}}']
+                                        ","['Embrace Independence Day with Flat 15% off at {{shop_name}}', 'Feel the Freedom with {{shop_name}}, Flat 15% off', 'Celebrate Independence Day, Flat 15% off at {{shop_name}}', '{{shop_name}} Presents Flat 15% off, This Independence Day', 'Celebrate Independence, Celebrate Savings: Flat 15% off at {{shop_name}}', '{{shop_name}} brings the Freedom Sale, Flat 15% off on Independence Day', 'Freedom to Save: Flat 15% off at {{shop_name}}', 'Flat 15% off at {{shop_name}}: Independence Day Bonanza', 'Salute the Spirit of Independence with Flat 15% off at {{shop_name}}']"
+"### Instruction:
+Create 4 subject lines for an email campaign in a Friendly tone sharing the Ganesh Chaturthi special 10% off at {{shop_name}}. Include {{contact.first_name|default:Pal}}.
+
+### Response:
+1: Introducing Our Dussehra Collection at {{shop_name}}, {{contact.first_name|default:shopper}}
+","###agram ### ###1 a20- for the email campaign. the wordly Email. the benefitsesh Festivalaththi celebr offer200 off offer yourstore_name}}.
+clude theshop_name_name}},upper=' 'ak
+Create
+# 
+
+
+.
+roduce the Newedicsehra S
+ {{shop_name}} wecontact_first_name}}default:Palopper_ has22:
+Groducing Our Dussehra Collection at {{shop_name}}, {{contact.first_name|default:shopper}}']
+                                                                                                                                                                                                                                                                                                                                                                                                    ","['Introducing Our Dussehra Collection at {{shop_name}}, {{contact.first_name|default:shopper}}']"
+"### Instruction:
+Create 3 personalized subject lines in a Luxury tone, promoting a rare Eid collection. include {{contact.first_name|default:hey}}, include {{shop_name}}.
+
+### Response:
+1: Elevate your Eid Celebration with {{shop_name}}'s Magnificent Collection, {{contact.first_name|default:hey}}
+2: A Moment of Splendor Awaits You, {{contact.first_name|default:hey}}: Discover {{shop_name}}'s Eid Luxury Collection
+3: Celebrate Eid in Luxury, {{contact.first_name|default:hey}} - Discover {{shop_name}}'s Exclusive Collection
+","###agram ### ###1 a2D statements cards- for the singlee Email. usingoting your Lux opportunityau offer.
+ theproduct_namenamename}}upper=""contacty_ {{ {{contact.name}}
+Create
+# 
+
+
+.
+idate your brandid collectionelebration with acontact_name}}
+s Limitedificent E of featuringcontact.first_name|default:hey}}.
+2: E rareoment of Magnplendor,waits You, {{shop.first_name|default:hey}}
+
+over theshop_name}}'s Magnid Collectionury Collection
+3: Aelebrate Eid with Styleury Style {{contact.first_name|default:hey}}: {{over {{shop_name}}'s Eclusive E
+
+## line
+Elevate your Eid Celebration with {{shop_name}}'s Magnificent Collection, {{contact.first_name|default:hey}}""] ""E Moment of Splendor Awaits You, {{contact.first_name|default:hey}}: Discover {{shop_name}}'s Eid Luxury Collection"", ""Celebrate Eid in Luxury, {{contact.first_name|default:hey}} - Discover {{shop_name}}'s Exclusive Collection""]
+                                                                                                                                                                                                                             ","[""Elevate your Eid Celebration with {{shop_name}}'s Magnificent Collection, {{contact.first_name|default:hey}}"", ""A Moment of Splendor Awaits You, {{contact.first_name|default:hey}}: Discover {{shop_name}}'s Eid Luxury Collection"", ""Celebrate Eid in Luxury, {{contact.first_name|default:hey}} - Discover {{shop_name}}'s Exclusive Collection""]"
+"### Instruction:
+Create 9 personalised subject lines in a Bold tone prompting a customer to check a special Independence Day sale. include {{shop_name}}.
+
+### Response:
+1: Get Ready! Independence Day Flash Sale Begins at {{shop_name}}
+2: Celebrate Independence Day with Unbelievable Discounts at {{shop_name}}
+3: Independence Day Special: Incredible Offers at {{shop_name}}
+4: Experience Financial Freedom with our Independence Day Sale at {{shop_name}}
+5: Striking Independence Day Sale at {{shop_name}} - Don't Miss Out!
+6: Feel the Freedom of Savings with Our Independence Day Sale at {{shop_name}}
+7: Bring On the Freedom Vibes with Independence Day Sale at {{shop_name}}
+8: Freedom Sale! Unmatched Deals this Independence Day at {{shop_name}}
+9: Hurry! Limited Time Independence Day Special Sale at {{shop_name}}
+","###agram ### ###1 a20 statements cards- for the singleCC font.ing the response to click out box ofference Day offer.
+ aproductifyname}}
+Create
+# 
+
+
+.
+ aady for
+ence Day S Sale!s! shop_name}}
+2: Getelebrate Independence Day with aiqueievable Decounts! {{shop_name}}
+3: Independence Day Flash: Getcredible Disers on {{shop_name}}
+4: Independience theestcial Freedom at {{ Independence Day Flashale
+ {{shop_name}}
+5: Independaying Deence Day Sale at {{shop_name}}
+ Get't Miss Out!
+6: Independel the Spiritedom of Independings at our Independence Day Sale at {{shop_name}}
+7: Independing the Independ Independedom withibes with ourence Day Sale at {{shop_name}}
+8: Independedom Dayale at -beled Disals at Independence Day at {{shop_name}}
+9: Independry! Independ Time Ofence Day S atale at {{shop_name}}
+
+
+ lines
+Ind Ready! Independence Day Flash Sale Begins at {{shop_name}}', 'Celebrate Independence Day with Unbelievable Discounts at {{shop_name}}', 'Independence Day Special: Incredible Offers at {{shop_name}}', 'Experience Financial Freedom with our Independence Day Sale at {{shop_name}}', 'Striking Independence Day Sale at {{shop_name}} - Don't Miss Out!"", 'Feel the Freedom of Savings with Our Independence Day Sale at {{shop_name}}', 'Bring On the Freedom Vibes with Independence Day Sale at {{shop_name}}', 'Freedom Sale! Unmatched Deals this Independence Day at {{shop_name}}', 'Hurry! Limited Time Independence Day Special Sale at {{shop_name}}',
+                                                                  ","['Get Ready! Independence Day Flash Sale Begins at {{shop_name}}', 'Celebrate Independence Day with Unbelievable Discounts at {{shop_name}}', 'Independence Day Special: Incredible Offers at {{shop_name}}', 'Experience Financial Freedom with our Independence Day Sale at {{shop_name}}', ""Striking Independence Day Sale at {{shop_name}} - Don't Miss Out!"", 'Feel the Freedom of Savings with Our Independence Day Sale at {{shop_name}}', 'Bring On the Freedom Vibes with Independence Day Sale at {{shop_name}}', 'Freedom Sale! Unmatched Deals this Independence Day at {{shop_name}}', 'Hurry! Limited Time Independence Day Special Sale at {{shop_name}}']"
+"### Instruction:
+Create 4 personalized subject lines in a Joyful tone unveiling a unique range of home decor for the festival Ugadi. Include {{contact.first_name|default:Decor Enthusiast}}, include {{shop_name}}.
+
+### Response:
+1: Get Festive with {{shop_name}}'s New Ugadi Home Decor Collection, {{contact.first_name|default:Decor Enthusiast}}
+2: {{contact.first_name|default:Decor Enthusiast}}, Get Ready for Ugadi with {{shop_name}}'s Home Decor Collection
+3: Celebrate Ugadi in Style, {{contact.first_name|default:Decor Enthusiast}} - Fresh Decor Collection at {{shop_name}}
+4: Ugadi Wows at {{shop_name}}, {{contact.first_name|default:Decor Enthusiast}} - Check our latest Decor Collection
+","###agram ### ###1 a20 statements cards- for the singlece Journal.ifyingiling the Joy message of products decor products your home ofshadi.
+sp aU_namenamename}}upper=""contactember}}thusiast}} {{ {{contact.name}}
+{{
+# 
+
+
+.
+ theive Joy Joycontact_name}}
+s Joy Homegadi Collection Decor Collection
+ acontact.first_name|default:Decor Enthusiast}}!
+: {{shop.first_name|default:Decor Enthusiast}} {{ Festady for Ugadi with {{shop_name}}.'s New Decor Collection,
+: {{elebrate Ugadi with Style with {{contact.first_name|default:Decor Enthusiast}}
+ {{resh andor Collection
+ {{shop_name}}
+
+: {{gadi isishes with {{shop_name}} {{contact.first_name|default:Decor Enthusiast}}
+ Home out Home collectionor Collection
+
+## line
+Dec Festive with {{shop_name}}'s New Ugadi Home Decor Collection, {{contact.first_name|default:Decor Enthusiast}}""] ""Getcontact.first_name|default:Decor Enthusiast}} Get Ready for Ugadi with {{shop_name}}'s Home Decor Collection"", ""Uelebrate Ugadi in Style', {{contact.first_name|default:Decor Enthusiast}} - Fresh Decor Collection at {{shop_name}}', ""Ugadi Wows at {{shop_name}}, {{contact.first_name|default:Decor Enthusiast}} - Check our latest Decor Collection']
+                                                                                                                                          ","[""Get Festive with {{shop_name}}'s New Ugadi Home Decor Collection, {{contact.first_name|default:Decor Enthusiast}}"", ""{{contact.first_name|default:Decor Enthusiast}}, Get Ready for Ugadi with {{shop_name}}'s Home Decor Collection"", 'Celebrate Ugadi in Style, {{contact.first_name|default:Decor Enthusiast}} - Fresh Decor Collection at {{shop_name}}', 'Ugadi Wows at {{shop_name}}, {{contact.first_name|default:Decor Enthusiast}} - Check our latest Decor Collection']"
+"### Instruction:
+Create 6 subject lines for an email in a Formal tone, informing about the new arrival of winter wear. Include {{contact.first_name|default:shopper}}, include {{shop_name}}.
+
+### Response:
+1: {{shop_name}}'s Formal Introduction: New Winter Collection for {{contact.first_name|default:shopper}}
+2: {{contact.first_name|default:shopper}}, We Cordially Invite You to Explore Winter Arrivals at {{shop_name}}
+3: Formal Revealing: Discover the Winter Collection at {{shop_name}}, {{contact.first_name|default:shopper}}
+4: Suit up this Winter, {{contact.first_name|default:shopper}}: Explore {{shop_name}}'s New Collection
+5: Welcome our New Winter Collection at {{shop_name}}, {{contact.first_name|default:shopper}}
+6: New Formal Winter Collection, now available at {{shop_name}}, {{contact.first_name|default:shopper}}
+","###agram ### ###1 a20- for the email. the wordORM Writing. usingal the a up products a clothes.
+ the thename_name_name}},upper="" 'oes. {{ {{contact.name}},
+Create
+# 
+
+
+.
+contact_name}}
+s newormal tone
+
+ arrival W
+ contact.first_name|default:shopper}}
+2: {{shop.first_name|default:shopper}} {{'ially Invite You to Visplore {{ Wrivals at {{shop_name}}.
+3: {{ormal Invceptional: {{over {{ New Collection at {{shop_name}} featuringcontact.first_name|default:shopper}}
+4: {{aveably for Winter with withcontact.first_name|default:shopper}}! {{plore theshop_name}}'s F Ar
+5: {{ to Winter Sho Collection, {{shop_name}}, {{contact.first_name|default:shopper}}
+
+: {{ Winterormal Winter Collection: {{ available at {{shop_name}}, {{contact.first_name|default:shopper}}
+
+## lines
+{{contact_name}}'s Formal Introduction: New Winter Collection for {{contact.first_name|default:shopper}}""] Formcontact.first_name|default:shopper}} We Cordially Invite You to Explore Winter Arrivals at {{shop_name}}'] '{{al Revealing: Discover the Winter Collection at {{shop_name}}, {{contact.first_name|default:shopper}}', 'Suit up this Winter, {{contact.first_name|default:shopper}}: Explore {{shop_name}}'s New Collection""] ""Welcome our New Winter Collection at {{shop_name}}, {{contact.first_name|default:shopper}}', ""New Formal Winter Collection, now available at {{shop_name}}, {{contact.first_name|default:shopper}}""]
+                                                                      ","[""{{shop_name}}'s Formal Introduction: New Winter Collection for {{contact.first_name|default:shopper}}"", '{{contact.first_name|default:shopper}}, We Cordially Invite You to Explore Winter Arrivals at {{shop_name}}', 'Formal Revealing: Discover the Winter Collection at {{shop_name}}, {{contact.first_name|default:shopper}}', ""Suit up this Winter, {{contact.first_name|default:shopper}}: Explore {{shop_name}}'s New Collection"", 'Welcome our New Winter Collection at {{shop_name}}, {{contact.first_name|default:shopper}}', 'New Formal Winter Collection, now available at {{shop_name}}, {{contact.first_name|default:shopper}}']"
+"### Instruction:
+Create 7 subject lines for an email in a Relaxed tone offering a 15% off coupon as a birthday gift. Include {{contact.first_name|default:friend}}, include {{shop_name}}.
+
+### Response:
+1: {{contact.first_name|default:friend}}, Your Birthday Comes Wth 15% Off at {{shop_name}}!
+2: Your Birthday Treat Awaits, {{contact.first_name|default:friend}} - 15% Off at {{shop_name}}
+3: Here's to You, {{contact.first_name|default:friend}}! Enjoy 15% Off at {{shop_name}}
+4: {{contact.first_name|default:friend}}, Celebrate with 15% Off - Happy Birthday from {{shop_name}}
+5: We're Celebrating You, {{contact.first_name|default:friend}}! Enjoy Your Birthday Discount at {{shop_name}}
+6: Blow Out the Candles, {{contact.first_name|default:friend}}: Your 15% Off Birthday Gift at {{shop_name}}
+7: Happy Birthday, {{contact.first_name|default:friend}}! Enjoy Your Special Gift - 15% Off at {{shop_name}}
+","###agram ### ###1 a20- for the email. the wordayed Writing. a disc10% disc discpon. a discday gift.
+clude thename_name_name}},upper="" '_ {{ {{contact.name|
+Create
+# 
+
+
+.
+contact.first_name|default:friend}}, {{ birthirthday Ges Arrong a15% Off. {{shop_name}}.
+
+2: {{ Birthday Comat Comwaits! {{shop.first_name|default:friend}},
+ {{15% Off Cou {{shop_name}}
+3: {{'s Your your, {{contact.first_name|default:friend}}, - joy 15% Off at {{shop_name}}
+4: Herecontact.first_name|default:friend}}, elebrate Your 15% Off at {{ Birthday! {{shop_name}}
+5: {{'re Hereelebrating Your! {{contact.first_name|default:friend}}, - joy  Birthday Trecount at {{shop_name}}
+6: {{irth Out the Candles, {{contact.first_name|default:friend}},!  B15% Off isirthday Disift is {{shop_name}}
+
+: {{ Birthday, {{contact.first_name|default:friend}}! Enjoy   Disift at 15% Off at {{shop_name}}
+
+## lines
+Bcontact.first_name|default:friend}}'] Birthday Comes Wth 15% Off at {{shop_name}}!'] '{{ Birthday Treat Awaits, {{contact.first_name|default:friend}} - 15% Off at {{shop_name}}', 'Here's to You, {{contact.first_name|default:friend}}! Enjoy 15% Off at {{shop_name}}"", 'Ccontact.first_name|default:friend}}, Celebrate with 15% Off at Happy Birthday from {{shop_name}}', ""We're Celebrating You, {{contact.first_name|default:friend}}! Enjoy Your Birthday Discount at {{shop_name}}"", 'Blow Out the Candles, {{contact.first_name|default:friend","['{{contact.first_name|default:friend}}, Your Birthday Comes Wth 15% Off at {{shop_name}}!', 'Your Birthday Treat Awaits, {{contact.first_name|default:friend}} - 15% Off at {{shop_name}}', ""Here's to You, {{contact.first_name|default:friend}}! Enjoy 15% Off at {{shop_name}}"", '{{contact.first_name|default:friend}}, Celebrate with 15% Off - Happy Birthday from {{shop_name}}', ""We're Celebrating You, {{contact.first_name|default:friend}}! Enjoy Your Birthday Discount at {{shop_name}}"", 'Blow Out the Candles, {{contact.first_name|default:friend}}: Your 15% Off Birthday Gift at {{shop_name}}', 'Happy Birthday, {{contact.first_name|default:friend}}! Enjoy Your Special Gift - 15% Off at {{shop_name}}']"
+"### Instruction:
+Create 7 subject lines in a Friendly tone introducing the Ganesh Chaturthi special offers with up to 40% off on selected items. Include {{shop_name}}
+
+### Response:
+1: Ganesh Chaturthi Blessings from {{shop_name}}: Up to 40% off on selected items!
+2: Make a Splash This Ganesh Chaturthi with {{shop_name}}: Enjoy up to 40% off on your favorite items!
+3: Feel the festive excitement! {{shop_name}} Ganesh Chaturthi offers: Selected Items up to 40% off.
+4: Maximize your Savings on Ganesh Chaturthi: Dive into up to 40% off offers at {{shop_name}}.
+5: Cherish Ganesh Chaturthi with jaw-dropping deals: 40% off at {{shop_name}}!
+6: Here's a reason to cheer: Ganesh Chaturthi Offers at {{shop_name}}: up to 40% off!
+7: Making your Ganesh Chaturthi even better: {{shop_name}} offers up to 40% off.
+","###agram ### ###1 a20- for the wordFeed Email.cing the newym Festivalaturthi celebr offer. a to 50% disc on the products.
+ the aproductifyname}} as{{
+# 
+
+
+.
+esh Chaturthi Specialazings
+ {{shop_name}}
+
+ to 40% off on selected items
+
+2: Gan your purchaseplash with Ganesh Chaturthi with Upshop_name}}: Upjoy up to 40% off on selected favour items!
+3: Ganast the Bive v with Upshop_name}}:esh Chaturthi B: Up items up to 40% off!
+4: Festize your savings! {{esh Chaturthi with Upive into the to 40% off on on {{shop_name}}.
+
+: Enish theesh Chaturthi with {{ew-dropping offersals: {{40% off on {{shop_name}}.
+
+6: C's to Gan to celebr! Upesh Chaturthi offersers at {{shop_name}}: En to 40% off on
+
+: Enaking the Ganesh Chaturthi special more: {{shop_name}} Gan: to 40% off on
+
+
+ lines
+Ganesh Chaturthi Offlessings from {{shop_name}}: Up to 40% off on selected items!'] 'G a Splash This Ganesh Chaturthi with {{shop_name}}: Enjoy up to 40% off on your favorite items!', 'Feel the festive excitement! {{shop_name}} Ganesh Chaturthi offers: Selected Items up to 40% off.', 'Maximize your Savings on Ganesh Chaturthi: Dive into up to 40% off offers at {{shop_name}}.', 'Cherish Ganesh Chaturthi with jaw-dropping deals: 40% off at {{shop_name}}!', 'Here's a reason to cheer: Ganesh Chaturthi Offers at {{shop_name}}: up to 40% off!"", 'Making your Ganesh Chaturthi even better: {{shop_name}} offers up to 40% off.']
+    ","['Ganesh Chaturthi Blessings from {{shop_name}}: Up to 40% off on selected items!', 'Make a Splash This Ganesh Chaturthi with {{shop_name}}: Enjoy up to 40% off on your favorite items!', 'Feel the festive excitement! {{shop_name}} Ganesh Chaturthi offers: Selected Items up to 40% off.', 'Maximize your Savings on Ganesh Chaturthi: Dive into up to 40% off offers at {{shop_name}}.', 'Cherish Ganesh Chaturthi with jaw-dropping deals: 40% off at {{shop_name}}!', ""Here's a reason to cheer: Ganesh Chaturthi Offers at {{shop_name}}: up to 40% off!"", 'Making your Ganesh Chaturthi even better: {{shop_name}} offers up to 40% off.']"
+"### Instruction:
+Draft 10 subject lines in a Convincing tone with a 40% off Diwali offer for all items in the store. Include {{contact.first_name|default:hey}}, include {{shop_name}}.
+
+### Response:
+1: {{contact.first_name|default:hey}}, Diwali at {{shop_name}}| 40% OFF on Everything
+2: {{contact.first_name|default:hey}}, Sparkle Your Diwali with 40% Off on All Items at {{shop_name}}
+3: {{contact.first_name|default:hey}}, Unbelievable Diwali Offer! Save 40% on Everything at {{shop_name}}!
+4: {{contact.first_name|default:hey}}, Diwali Special: 40% OFF on Everything at {{shop_name}}!
+5: Get Ready for a Sparkling Diwali, {{contact.first_name|default:hey}}! Avail 40% Off at {{shop_name}}!
+6: Diwali Savings at {{shop_name}}! Get 40% OFF, {{contact.first_name|default:hey}}
+7: Light Up Your Diwali with a 40% Discount on All Items at {{shop_name}}, {{contact.first_name|default:hey}}!
+8: Celebrate Diwali with 40% Off on All Items at {{shop_name}}, {{contact.first_name|default:hey}}!
+9: Massive Diwali Offer: Celebrate with 40% off at {{shop_name}}, {{contact.first_name|default:hey}}!
+10: Don't Miss Our Incredible 40% Off Diwali Offer at {{shop_name}}, {{contact.first_name|default:hey}}!
+","###agram ### ###1uringed1:: to: the singleflucing Way. a Con100 chance couagramali offer. the the. the store.
+ the aproduct_name_name}}upper=""contacty_ {{ {{contact.name}}
+D
+# D
+
+
+.
+contact.first_name|default:hey}}, {{wali S {{shop_name}}
+{{40% offFF
+ all
+
+: {{contact.first_name|default:hey}}, Diling Di Diwali with {{40% O on Everything Items
+ {{shop_name}}
+
+: {{contact.first_name|default:hey}}, Diiqueievable Diwali Offfer at  40% on All at {{shop_name}}
+
+
+: {{contact.first_name|default:hey}}, Diwali at Of 40% OffFF on Everything at {{shop_name}}
+
+
+: {{ ady for Di Sparkling Diwali! Savecontact.first_name|default:hey}},! Saveail 40% O on {{shop_name}}
+
+
+: {{wali Specialings! {{shop_name}}!  40% OffFF on {{contact.first_name|default:hey}}!7: {{ up Your Diwali with  40% Ocount at Everything Items at {{shop_name}} {{contact.first_name|default:hey}}
+
+8: {{elebrate Diwali with a40% Off on All Items at {{shop_name}}, {{contact.first_name|default:hey}}!
+9: {{ive Diwali Savfer! elebrate Di 40% Off on {{shop_name}}, {{contact.first_name|default:hey}}!
+
+0: {{'t Miss the Dicredible Di40% Off onwali Sfer at {{shop_name}}, {{contact.first_name|default:hey}}!
+
+## lines
+Dcontact.first_name}}default:hey}} {{wali at {{shop_name}}| 40% OFF on Everything'] '{{shop.first_name|default:hey}}, Dile Your Diwali with 40% Off on All Items at {{shop_name}}', '{{","['{{contact.first_name|default:hey}}, Diwali at {{shop_name}}| 40% OFF on Everything', '{{contact.first_name|default:hey}}, Sparkle Your Diwali with 40% Off on All Items at {{shop_name}}', '{{contact.first_name|default:hey}}, Unbelievable Diwali Offer! Save 40% on Everything at {{shop_name}}!', '{{contact.first_name|default:hey}}, Diwali Special: 40% OFF on Everything at {{shop_name}}!', 'Get Ready for a Sparkling Diwali, {{contact.first_name|default:hey}}! Avail 40% Off at {{shop_name}}!', 'Diwali Savings at {{shop_name}}! Get 40% OFF, {{contact.first_name|default:hey}}', 'Light Up Your Diwali with a 40% Discount on All Items at {{shop_name}}, {{contact.first_name|default:hey}}!', 'Celebrate Diwali with 40% Off on All Items at {{shop_name}}, {{contact.first_name|default:hey}}!', 'Massive Diwali Offer: Celebrate with 40% off at {{shop_name}}, {{contact.first_name|default:hey}}!', ""Don't Miss Our Incredible 40% Off Diwali Offer at {{shop_name}}, {{contact.first_name|default:hey}}!""]"
+"### Instruction:
+Create 8 personalised subject lines in a Enthusiastic tone prompting a customer to check a special 20% Diwali sale. Include {{contact.first_name|default:Valued Customer}}, include {{shop_name}}.
+
+### Response:
+1: 20% off Diwali Sale just for you, {{contact.first_name|default:Valued Customer}} at {{shop_name}}!
+2: Celebrate Diwali and save 20% at {{shop_name}}, {{contact.first_name|default:Valued Customer}}!
+3: A joyful Diwali with 20% savings at {{shop_name}}, {{contact.first_name|default:Valued Customer}}!
+4: Illuminate your Diwali with 20% off at {{shop_name}}, {{contact.first_name|default:Valued Customer}}.
+5: Embrace the joy of Diwali with 20% off, {{contact.first_name|default:Valued Customer}} at {{shop_name}}!
+6: Make Diwali special with 20% off at {{shop_name}}, {{contact.first_name|default:Valued Customer}}.
+7: {{contact.first_name|default:Valued Customer}}, light up your Diwali with discounts at {{shop_name}}!
+8: Celebrate Diwali with {{shop_name}}: Enjoy a 20% discount, {{contact.first_name|default:Valued Customer}}!
+","###agram ### ###1 a20ized cards- for the singlevusiastic way.ing the response to click out product offer10% offabali offer.
+ the acustomer_namenamename}}upper=' 'ent|}} {{ {{contact.name}}
+Create
+# 
+
+
+.
+
+0% Di Diwali saleale
+ for you! contact.first_name|default:Valued Customer}},
+ {{shop_name}}.
+
+2: ashbrate Diwali with save 20% on {{shop_name}} {{contact.first_name|default:Valued Customer}}!
+3:  specialful celebrwali sale 20% offings at {{shop_name}}, {{contact.first_name|default:Valued Customer}}!
+4: Cuminate your Diwali with 20% sav at {{shop_name}}, {{contact.first_name|default:Valued Customer}}
+5: Cbrace the joy of Diwali with 20% off at {{contact.first_name|default:Valued Customer}} at {{shop_name}}.!
+6: C Diwali special with 20% off at {{shop_name}}, {{contact.first_name|default:Valued Customer}}.
+7: Ccontact.first_name|default:Valued Customer}} {{ up your Diwali with ounts at {{shop_name}}.!
+
+: {{elebrate Diwali with contact_name}}, at thy  20% discount at {{contact.first_name|default:Valued Customer}} at
+
+## lines
+D0% off Diwali Sale just for you, {{contact.first_name|default:Valued Customer}}, at {{shop_name}}!'] '2elebrate Diwali and save 20% at {{shop_name}}, {{contact.first_name|default:Valued Customer}}!', 'A joyful Diwali with 20% savings at {{shop_name}}, {{contact.first_name|default:Valued Customer}}!', 'Illuminate your Diwali with 20% off at {{shop_name}}, {{contact.first_name|default:Valued Customer}}.', 'Embrace the joy of Diwali with 20% off at {{","['20% off Diwali Sale just for you, {{contact.first_name|default:Valued Customer}} at {{shop_name}}!', 'Celebrate Diwali and save 20% at {{shop_name}}, {{contact.first_name|default:Valued Customer}}!', 'A joyful Diwali with 20% savings at {{shop_name}}, {{contact.first_name|default:Valued Customer}}!', 'Illuminate your Diwali with 20% off at {{shop_name}}, {{contact.first_name|default:Valued Customer}}.', 'Embrace the joy of Diwali with 20% off, {{contact.first_name|default:Valued Customer}} at {{shop_name}}!', 'Make Diwali special with 20% off at {{shop_name}}, {{contact.first_name|default:Valued Customer}}.', '{{contact.first_name|default:Valued Customer}}, light up your Diwali with discounts at {{shop_name}}!', 'Celebrate Diwali with {{shop_name}}: Enjoy a 20% discount, {{contact.first_name|default:Valued Customer}}!']"
+"### Instruction:
+Create 7 subject lines for an email in a Professional tone promoting a special Pongal harvest sale. include {{shop_name}}
+
+### Response:
+1: Unbeatable Pongal offers at {{shop_name}}'s harvest sale
+2: Harvest the best deals this Pongal at {{shop_name}}
+3: Harvest the savings: Pongal sale now live at {{shop_name}}
+4: Pongal Harvest Sale: Best deals at {{shop_name}}
+5: Celebrate Pongal with special harvest sale at {{shop_name}}
+6: Pongal Special: Harvest Sale at {{shop_name}}
+7: {{shop_name}}'s Pongal bonanza: Harvest Sale!
+","###agram ### ###1 a20- for the email. the word Email.oting your new offerurchase tournament offervest festival.
+ thenameifyname}} andCreate
+# 
+
+
+.
+iqueknown Deongal S
+ {{shop_name}}
+s onlinevest sale
+2: Pvest sale best pals on Pongal season {{shop_name}}'3: Pvest the bestings at {{ongal sale at on at {{shop_name}}
+4: Pongal salevest Sale:  deals on {{shop_name}}
+5: Pelebrate theongal with {{ offersvest sale offers {{shop_name}}
+6: Pongal sale S Bestvest theale at {{shop_name}}
+
+: Pshop_name}}'s Pongal saleanza
+ Bestvest theale at
+
+
+ lines
+{{beatable Pongal offers at {{shop_name}}'s harvest sale""] ""Pvest the best deals this Pongal at {{shop_name}}', 'Pvest the savings: Pongal sale now live at {{shop_name}}', 'Pongal Harvest Sale: Best deals at {{shop_name}}', 'Celebrate Pongal with special harvest sale at {{shop_name}}', 'Pongal Special: Harvest Sale at {{shop_name}}', 'Pshop_name}}'s Pongal bonanza: Harvest Sale!']
+                                                                                                                                                                                                ","[""Unbeatable Pongal offers at {{shop_name}}'s harvest sale"", 'Harvest the best deals this Pongal at {{shop_name}}', 'Harvest the savings: Pongal sale now live at {{shop_name}}', 'Pongal Harvest Sale: Best deals at {{shop_name}}', 'Celebrate Pongal with special harvest sale at {{shop_name}}', 'Pongal Special: Harvest Sale at {{shop_name}}', ""{{shop_name}}'s Pongal bonanza: Harvest Sale!""]"
+"### Instruction:
+Create 5 subject lines in a Convincing tone proposing a 30% off Navaratri sale. include {{contact.first_name|default:Devotee}}, include {{shop_name}}
+
+### Response:
+1: Convince your wallet this Navaratri with a 30% off sale, {{contact.first_name|default:Devotee}}, at {{shop_name}}
+2: Navaratri special: Get a convincing 30% off, {{contact.first_name|default:Devotee}}, at {{shop_name}}
+3: Celebrate Navaratri with a convincing 30% off, {{contact.first_name|default:Devotee}}, only at {{shop_name}}
+4: {{contact.first_name|default:Devotee}}, get in the festive spirit with a convincing 30% off Navaratri sale at {{shop_name}}
+5: Celebrate Navaratri in style with a 30% off, {{contact.first_name|default:Devotee}}, at {{shop_name}}
+","###agram ### ###1 a20- for the wordflucing way.ing a new10- disc discro sale.
+ aNav_namenamename}}upper=""contactepes}} {{ {{contact.name}} and{{
+# 
+
+
+.
+vinince me customerlet to isatri sale  30% off sale. includecontact.first_name|default:Devotee}}, {{ {{shop_name}}
+
+: {{atri is sale   cing 30% off sale {{contact.first_name|default:Devotee}}, at {{shop_name}}
+3: Navarelebrate Navaratri with a cing 30% off, {{contact.first_name|default:Devotee}}, at at {{shop_name}}
+
+: Navarcontact.first_name|default:Devotee}}, at a on spiritive m with a convincing 30% off,atri sale, {{shop_name}}
+
+: Navarelebrate Navaratri with a with a convin30% off, {{contact.first_name|default:Devotee}}, at {{shop_name}}
+
+
+ lines
+Navvinince your wallet this Navaratri with a 30% off sale, {{contact.first_name|default:Devotee}}, at {{shop_name}}'] 'Navaratri special: Get a convincing 30% off, {{contact.first_name|default:Devotee}}, at {{shop_name}}', 'Celebrate Navaratri with a convincing 30% off, {{contact.first_name|default:Devotee}}, only at {{shop_name}}', '{{contact.first_name|default:Devotee}}, get in the festive spirit with a convincing 30% off Navaratri sale at {{shop_name}}', 'Celebrate Navaratri in style with a 30% off, {{contact.first_name|default:Devotee}}, at {{shop_name}}']
+                                                                       ","['Convince your wallet this Navaratri with a 30% off sale, {{contact.first_name|default:Devotee}}, at {{shop_name}}', 'Navaratri special: Get a convincing 30% off, {{contact.first_name|default:Devotee}}, at {{shop_name}}', 'Celebrate Navaratri with a convincing 30% off, {{contact.first_name|default:Devotee}}, only at {{shop_name}}', '{{contact.first_name|default:Devotee}}, get in the festive spirit with a convincing 30% off Navaratri sale at {{shop_name}}', 'Celebrate Navaratri in style with a 30% off, {{contact.first_name|default:Devotee}}, at {{shop_name}}']"
+"### Instruction:
+Create 2 personalised subject lines in a Bold tone prompting a customer to check a special Independence Day sale. include {{shop_name}}.
+
+### Response:
+1: Celebrate Independence Day with Unbelievable Discounts at {{shop_name}}
+2: Striking Independence Day Sale at {{shop_name}} - Don't Miss Out!
+","###agram ### ###1 a20ities cards- for the singleCC font.ing the response to click out box ofference Day offer.
+ aproductifyname}}
+Create
+# 
+
+
+.
+oolbrate Independence Day with aiqueievable Savcounts
+ {{shop_name}}
+2: Caying Deence Day Sale at {{shop_name}}
+ 't Miss Out!
+
+## line
+Indelebrate Independence Day with Unbelievable Discounts at {{shop_name}}', 'Criking Independence Day Sale at {{shop_name}} - Don't Miss Out!""]
+                                                                                                                                                                                                                                                                                                                                                                                   ","['Celebrate Independence Day with Unbelievable Discounts at {{shop_name}}', ""Striking Independence Day Sale at {{shop_name}} - Don't Miss Out!""]"
